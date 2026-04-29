@@ -31,7 +31,7 @@ MANUAL_MAPPING = {
     "brooccoli_fry":              ("indian", "Broccoli delight"),
     "but_chutney":                ("indian", "Schezwan chutney"),
     "but_dal":                    ("ifct",   "Bengal gram, dal"),
-    "but_fry":                    ("indian", "Dry washed urad"),
+    "but_fry":                    ("ifct",   "Bengal gram, whole"),
     "cabbage_fry":                ("usda",   "cabbage,ckd,bld,drnd,wo/salt"),
     "chicken_curry":              ("indian", "Chicken curry"),
     "chilly":                     ("ifct",   "Chillies, green-1"),

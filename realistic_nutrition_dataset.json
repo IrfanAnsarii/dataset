@@ -1,0 +1,1829 @@
+{
+    "akhoi": {
+        "method": "estimated_real_values_per_100g",
+        "sources": [
+            "USDA",
+            "IFCT",
+            "Derived Approximation"
+        ],
+        "nutrition": {
+            "energy_kcal": 60,
+            "carbohydrate_g": 7.82,
+            "protein_g": 2.4,
+            "fat_g": 2.74,
+            "fibre_g": 2.32,
+            "free_sugar_g": 0.73,
+            "sodium_mg": 200,
+            "calcium_mg": 35,
+            "iron_mg": 2,
+            "vitamin_c_mg": 15,
+            "folate_mcg": 15
+        }
+    },
+    "ash_gourd_curry": {
+        "method": "estimated_real_values_per_100g",
+        "sources": [
+            "USDA",
+            "IFCT",
+            "Derived Approximation"
+        ],
+        "nutrition": {
+            "energy_kcal": 60,
+            "carbohydrate_g": 8.49,
+            "protein_g": 2.17,
+            "fat_g": 3.34,
+            "fibre_g": 2.7,
+            "free_sugar_g": 1.1,
+            "sodium_mg": 200,
+            "calcium_mg": 35,
+            "iron_mg": 1,
+            "vitamin_c_mg": 15,
+            "folate_mcg": 15
+        }
+    },
+    "bamboo_shoot_chutney": {
+        "method": "estimated_real_values_per_100g",
+        "sources": [
+            "USDA",
+            "IFCT",
+            "Derived Approximation"
+        ],
+        "nutrition": {
+            "energy_kcal": 50,
+            "carbohydrate_g": 9.09,
+            "protein_g": 1.72,
+            "fat_g": 0.67,
+            "fibre_g": 1.93,
+            "free_sugar_g": 0.88,
+            "sodium_mg": 400,
+            "calcium_mg": 20,
+            "iron_mg": 0,
+            "vitamin_c_mg": 15,
+            "folate_mcg": 15
+        }
+    },
+    "banana_fry": {
+        "method": "estimated_real_values_per_100g",
+        "sources": [
+            "USDA",
+            "IFCT",
+            "Derived Approximation"
+        ],
+        "nutrition": {
+            "energy_kcal": 115,
+            "carbohydrate_g": 8.49,
+            "protein_g": 1.9,
+            "fat_g": 8.74,
+            "fibre_g": 2.97,
+            "free_sugar_g": 1.5,
+            "sodium_mg": 200,
+            "calcium_mg": 35,
+            "iron_mg": 1,
+            "vitamin_c_mg": 15,
+            "folate_mcg": 15
+        }
+    },
+    "bhat_kerela_fry": {
+        "method": "estimated_real_values_per_100g",
+        "sources": [
+            "USDA",
+            "IFCT",
+            "Derived Approximation"
+        ],
+        "nutrition": {
+            "energy_kcal": 115,
+            "carbohydrate_g": 8.18,
+            "protein_g": 2.47,
+            "fat_g": 9.47,
+            "fibre_g": 2.8,
+            "free_sugar_g": 0.71,
+            "sodium_mg": 200,
+            "calcium_mg": 35,
+            "iron_mg": 1,
+            "vitamin_c_mg": 15,
+            "folate_mcg": 15
+        }
+    },
+    "bhut_chilly": {
+        "method": "estimated_real_values_per_100g",
+        "sources": [
+            "USDA",
+            "IFCT",
+            "Derived Approximation"
+        ],
+        "nutrition": {
+            "energy_kcal": 60,
+            "carbohydrate_g": 8.27,
+            "protein_g": 1.54,
+            "fat_g": 2.5,
+            "fibre_g": 2.58,
+            "free_sugar_g": 0.91,
+            "sodium_mg": 200,
+            "calcium_mg": 35,
+            "iron_mg": 2,
+            "vitamin_c_mg": 15,
+            "folate_mcg": 15
+        }
+    },
+    "bitter_gourd_fry": {
+        "method": "estimated_real_values_per_100g",
+        "sources": [
+            "USDA",
+            "IFCT",
+            "Derived Approximation"
+        ],
+        "nutrition": {
+            "energy_kcal": 115,
+            "carbohydrate_g": 8.4,
+            "protein_g": 1.67,
+            "fat_g": 8.89,
+            "fibre_g": 2.64,
+            "free_sugar_g": 1.31,
+            "sodium_mg": 200,
+            "calcium_mg": 35,
+            "iron_mg": 1,
+            "vitamin_c_mg": 15,
+            "folate_mcg": 15
+        }
+    },
+    "bitter_gourd_potato_fry": {
+        "method": "estimated_real_values_per_100g",
+        "sources": [
+            "USDA",
+            "IFCT",
+            "Derived Approximation"
+        ],
+        "nutrition": {
+            "energy_kcal": 165,
+            "carbohydrate_g": 16.83,
+            "protein_g": 2.04,
+            "fat_g": 9.67,
+            "fibre_g": 2.1,
+            "free_sugar_g": 1.05,
+            "sodium_mg": 200,
+            "calcium_mg": 15,
+            "iron_mg": 1,
+            "vitamin_c_mg": 12,
+            "folate_mcg": 15
+        }
+    },
+    "bogori_amber": {
+        "method": "estimated_real_values_per_100g",
+        "sources": [
+            "USDA",
+            "IFCT",
+            "Derived Approximation"
+        ],
+        "nutrition": {
+            "energy_kcal": 60,
+            "carbohydrate_g": 7.98,
+            "protein_g": 1.92,
+            "fat_g": 2.54,
+            "fibre_g": 2.44,
+            "free_sugar_g": 0.91,
+            "sodium_mg": 200,
+            "calcium_mg": 35,
+            "iron_mg": 2,
+            "vitamin_c_mg": 15,
+            "folate_mcg": 15
+        }
+    },
+    "boil_dal_rice": {
+        "method": "estimated_real_values_per_100g",
+        "sources": [
+            "USDA",
+            "IFCT",
+            "Derived Approximation"
+        ],
+        "nutrition": {
+            "energy_kcal": 110,
+            "carbohydrate_g": 18.14,
+            "protein_g": 7.44,
+            "fat_g": 2.42,
+            "fibre_g": 4.81,
+            "free_sugar_g": 0.77,
+            "sodium_mg": 250,
+            "calcium_mg": 30,
+            "iron_mg": 3,
+            "vitamin_c_mg": 2,
+            "folate_mcg": 50
+        }
+    },
+    "boiled_egg": {
+        "method": "estimated_real_values_per_100g",
+        "sources": [
+            "USDA",
+            "IFCT",
+            "Derived Approximation"
+        ],
+        "nutrition": {
+            "energy_kcal": 155,
+            "carbohydrate_g": 1.83,
+            "protein_g": 11.38,
+            "fat_g": 10.54,
+            "fibre_g": 0.09,
+            "free_sugar_g": 1.25,
+            "sodium_mg": 200,
+            "calcium_mg": 50,
+            "iron_mg": 1,
+            "vitamin_c_mg": 0,
+            "folate_mcg": 15
+        }
+    },
+    "boiled_ladies_finger": {
+        "method": "estimated_real_values_per_100g",
+        "sources": [
+            "USDA",
+            "IFCT",
+            "Derived Approximation"
+        ],
+        "nutrition": {
+            "energy_kcal": 60,
+            "carbohydrate_g": 8.02,
+            "protein_g": 2.48,
+            "fat_g": 3.17,
+            "fibre_g": 2.75,
+            "free_sugar_g": 0.83,
+            "sodium_mg": 200,
+            "calcium_mg": 35,
+            "iron_mg": 2,
+            "vitamin_c_mg": 15,
+            "folate_mcg": 15
+        }
+    },
+    "boiled_pork": {
+        "method": "estimated_real_values_per_100g",
+        "sources": [
+            "USDA",
+            "IFCT",
+            "Derived Approximation"
+        ],
+        "nutrition": {
+            "energy_kcal": 280,
+            "carbohydrate_g": 1.94,
+            "protein_g": 16.22,
+            "fat_g": 22.59,
+            "fibre_g": 0.16,
+            "free_sugar_g": 0.58,
+            "sodium_mg": 300,
+            "calcium_mg": 10,
+            "iron_mg": 1,
+            "vitamin_c_mg": 0,
+            "folate_mcg": 15
+        }
+    },
+    "brinjal_chutney": {
+        "method": "estimated_real_values_per_100g",
+        "sources": [
+            "USDA",
+            "IFCT",
+            "Derived Approximation"
+        ],
+        "nutrition": {
+            "energy_kcal": 50,
+            "carbohydrate_g": 9.23,
+            "protein_g": 1.77,
+            "fat_g": 1.27,
+            "fibre_g": 1.53,
+            "free_sugar_g": 1.46,
+            "sodium_mg": 400,
+            "calcium_mg": 20,
+            "iron_mg": 0,
+            "vitamin_c_mg": 15,
+            "folate_mcg": 15
+        }
+    },
+    "brinjal_curry": {
+        "method": "estimated_real_values_per_100g",
+        "sources": [
+            "USDA",
+            "IFCT",
+            "Derived Approximation"
+        ],
+        "nutrition": {
+            "energy_kcal": 60,
+            "carbohydrate_g": 7.53,
+            "protein_g": 2.42,
+            "fat_g": 3.49,
+            "fibre_g": 2.68,
+            "free_sugar_g": 0.65,
+            "sodium_mg": 200,
+            "calcium_mg": 35,
+            "iron_mg": 1,
+            "vitamin_c_mg": 15,
+            "folate_mcg": 15
+        }
+    },
+    "brinjal_fry": {
+        "method": "estimated_real_values_per_100g",
+        "sources": [
+            "USDA",
+            "IFCT",
+            "Derived Approximation"
+        ],
+        "nutrition": {
+            "energy_kcal": 115,
+            "carbohydrate_g": 8.22,
+            "protein_g": 2.26,
+            "fat_g": 9.33,
+            "fibre_g": 2.43,
+            "free_sugar_g": 1.08,
+            "sodium_mg": 200,
+            "calcium_mg": 35,
+            "iron_mg": 2,
+            "vitamin_c_mg": 15,
+            "folate_mcg": 15
+        }
+    },
+    "brooccoli_fry": {
+        "method": "estimated_real_values_per_100g",
+        "sources": [
+            "USDA",
+            "IFCT",
+            "Derived Approximation"
+        ],
+        "nutrition": {
+            "energy_kcal": 115,
+            "carbohydrate_g": 7.98,
+            "protein_g": 1.77,
+            "fat_g": 8.88,
+            "fibre_g": 2.84,
+            "free_sugar_g": 0.52,
+            "sodium_mg": 200,
+            "calcium_mg": 35,
+            "iron_mg": 1,
+            "vitamin_c_mg": 15,
+            "folate_mcg": 15
+        }
+    },
+    "but_chutney": {
+        "method": "estimated_real_values_per_100g",
+        "sources": [
+            "USDA",
+            "IFCT",
+            "Derived Approximation"
+        ],
+        "nutrition": {
+            "energy_kcal": 50,
+            "carbohydrate_g": 8.81,
+            "protein_g": 1.19,
+            "fat_g": 0.99,
+            "fibre_g": 2.09,
+            "free_sugar_g": 0.59,
+            "sodium_mg": 400,
+            "calcium_mg": 20,
+            "iron_mg": 1,
+            "vitamin_c_mg": 16,
+            "folate_mcg": 15
+        }
+    },
+    "but_dal": {
+        "method": "estimated_real_values_per_100g",
+        "sources": [
+            "USDA",
+            "IFCT",
+            "Derived Approximation"
+        ],
+        "nutrition": {
+            "energy_kcal": 110,
+            "carbohydrate_g": 17.95,
+            "protein_g": 6.82,
+            "fat_g": 1.97,
+            "fibre_g": 5.43,
+            "free_sugar_g": 1.19,
+            "sodium_mg": 250,
+            "calcium_mg": 30,
+            "iron_mg": 2,
+            "vitamin_c_mg": 2,
+            "folate_mcg": 50
+        }
+    },
+    "but_fry": {
+        "method": "estimated_real_values_per_100g",
+        "sources": [
+            "USDA",
+            "IFCT",
+            "Derived Approximation"
+        ],
+        "nutrition": {
+            "energy_kcal": 115,
+            "carbohydrate_g": 7.79,
+            "protein_g": 2.44,
+            "fat_g": 8.97,
+            "fibre_g": 2.97,
+            "free_sugar_g": 0.54,
+            "sodium_mg": 200,
+            "calcium_mg": 35,
+            "iron_mg": 1,
+            "vitamin_c_mg": 15,
+            "folate_mcg": 15
+        }
+    },
+    "but_potato_fry": {
+        "method": "estimated_real_values_per_100g",
+        "sources": [
+            "USDA",
+            "IFCT",
+            "Derived Approximation"
+        ],
+        "nutrition": {
+            "energy_kcal": 165,
+            "carbohydrate_g": 16.74,
+            "protein_g": 1.51,
+            "fat_g": 10.23,
+            "fibre_g": 1.56,
+            "free_sugar_g": 1.28,
+            "sodium_mg": 200,
+            "calcium_mg": 15,
+            "iron_mg": 1,
+            "vitamin_c_mg": 12,
+            "folate_mcg": 15
+        }
+    },
+    "cabbage_fry": {
+        "method": "estimated_real_values_per_100g",
+        "sources": [
+            "USDA",
+            "IFCT",
+            "Derived Approximation"
+        ],
+        "nutrition": {
+            "energy_kcal": 115,
+            "carbohydrate_g": 8.07,
+            "protein_g": 2.4,
+            "fat_g": 9.06,
+            "fibre_g": 2.9,
+            "free_sugar_g": 1.42,
+            "sodium_mg": 200,
+            "calcium_mg": 35,
+            "iron_mg": 2,
+            "vitamin_c_mg": 15,
+            "folate_mcg": 15
+        }
+    },
+    "capsicum_pakoda": {
+        "method": "estimated_real_values_per_100g",
+        "sources": [
+            "USDA",
+            "IFCT",
+            "Derived Approximation"
+        ],
+        "nutrition": {
+            "energy_kcal": 115,
+            "carbohydrate_g": 7.8,
+            "protein_g": 2.0,
+            "fat_g": 9.29,
+            "fibre_g": 2.64,
+            "free_sugar_g": 1.33,
+            "sodium_mg": 200,
+            "calcium_mg": 35,
+            "iron_mg": 2,
+            "vitamin_c_mg": 15,
+            "folate_mcg": 15
+        }
+    },
+    "chicken_curry": {
+        "method": "estimated_real_values_per_100g",
+        "sources": [
+            "USDA",
+            "IFCT",
+            "Derived Approximation"
+        ],
+        "nutrition": {
+            "energy_kcal": 165,
+            "carbohydrate_g": 3.2,
+            "protein_g": 13.67,
+            "fat_g": 10.14,
+            "fibre_g": 1.0,
+            "free_sugar_g": 1.21,
+            "sodium_mg": 350,
+            "calcium_mg": 15,
+            "iron_mg": 1,
+            "vitamin_c_mg": 2,
+            "folate_mcg": 15
+        }
+    },
+    "chicken_fry": {
+        "method": "estimated_real_values_per_100g",
+        "sources": [
+            "USDA",
+            "IFCT",
+            "Derived Approximation"
+        ],
+        "nutrition": {
+            "energy_kcal": 220,
+            "carbohydrate_g": 2.71,
+            "protein_g": 13.71,
+            "fat_g": 15.54,
+            "fibre_g": 0.75,
+            "free_sugar_g": 0.51,
+            "sodium_mg": 350,
+            "calcium_mg": 15,
+            "iron_mg": 1,
+            "vitamin_c_mg": 2,
+            "folate_mcg": 15
+        }
+    },
+    "chilly": {
+        "method": "estimated_real_values_per_100g",
+        "sources": [
+            "USDA",
+            "IFCT",
+            "Derived Approximation"
+        ],
+        "nutrition": {
+            "energy_kcal": 60,
+            "carbohydrate_g": 8.35,
+            "protein_g": 2.02,
+            "fat_g": 3.22,
+            "fibre_g": 2.38,
+            "free_sugar_g": 0.91,
+            "sodium_mg": 200,
+            "calcium_mg": 34,
+            "iron_mg": 1,
+            "vitamin_c_mg": 15,
+            "folate_mcg": 15
+        }
+    },
+    "chilly_chutney": {
+        "method": "estimated_real_values_per_100g",
+        "sources": [
+            "USDA",
+            "IFCT",
+            "Derived Approximation"
+        ],
+        "nutrition": {
+            "energy_kcal": 50,
+            "carbohydrate_g": 9.08,
+            "protein_g": 1.12,
+            "fat_g": 0.59,
+            "fibre_g": 2.32,
+            "free_sugar_g": 0.81,
+            "sodium_mg": 400,
+            "calcium_mg": 20,
+            "iron_mg": 0,
+            "vitamin_c_mg": 15,
+            "folate_mcg": 15
+        }
+    },
+    "curd": {
+        "method": "estimated_real_values_per_100g",
+        "sources": [
+            "USDA",
+            "IFCT",
+            "Derived Approximation"
+        ],
+        "nutrition": {
+            "energy_kcal": 98,
+            "carbohydrate_g": 3.29,
+            "protein_g": 11.42,
+            "fat_g": 4.55,
+            "fibre_g": 0.0,
+            "free_sugar_g": 1.08,
+            "sodium_mg": 36,
+            "calcium_mg": 110,
+            "iron_mg": 0,
+            "vitamin_c_mg": 0,
+            "folate_mcg": 15
+        }
+    },
+    "curry_leaf_curry": {
+        "method": "estimated_real_values_per_100g",
+        "sources": [
+            "USDA",
+            "IFCT",
+            "Derived Approximation"
+        ],
+        "nutrition": {
+            "energy_kcal": 45,
+            "carbohydrate_g": 3.61,
+            "protein_g": 3.24,
+            "fat_g": 2.2,
+            "fibre_g": 3.82,
+            "free_sugar_g": 1.18,
+            "sodium_mg": 150,
+            "calcium_mg": 120,
+            "iron_mg": 3,
+            "vitamin_c_mg": 30,
+            "folate_mcg": 80
+        }
+    },
+    "dang_bodi_fry": {
+        "method": "estimated_real_values_per_100g",
+        "sources": [
+            "USDA",
+            "IFCT",
+            "Derived Approximation"
+        ],
+        "nutrition": {
+            "energy_kcal": 115,
+            "carbohydrate_g": 7.58,
+            "protein_g": 2.28,
+            "fat_g": 8.77,
+            "fibre_g": 2.22,
+            "free_sugar_g": 0.72,
+            "sodium_mg": 200,
+            "calcium_mg": 35,
+            "iron_mg": 1,
+            "vitamin_c_mg": 15,
+            "folate_mcg": 15
+        }
+    },
+    "dhekia_xaak_fry": {
+        "method": "estimated_real_values_per_100g",
+        "sources": [
+            "USDA",
+            "IFCT",
+            "Derived Approximation"
+        ],
+        "nutrition": {
+            "energy_kcal": 100,
+            "carbohydrate_g": 4.36,
+            "protein_g": 3.31,
+            "fat_g": 8.3,
+            "fibre_g": 3.41,
+            "free_sugar_g": 1.08,
+            "sodium_mg": 150,
+            "calcium_mg": 120,
+            "iron_mg": 3,
+            "vitamin_c_mg": 30,
+            "folate_mcg": 80
+        }
+    },
+    "duck_meat_curry": {
+        "method": "estimated_real_values_per_100g",
+        "sources": [
+            "USDA",
+            "IFCT",
+            "Derived Approximation"
+        ],
+        "nutrition": {
+            "energy_kcal": 165,
+            "carbohydrate_g": 2.82,
+            "protein_g": 14.08,
+            "fat_g": 10.15,
+            "fibre_g": 0.99,
+            "free_sugar_g": 1.32,
+            "sodium_mg": 350,
+            "calcium_mg": 15,
+            "iron_mg": 2,
+            "vitamin_c_mg": 2,
+            "folate_mcg": 15
+        }
+    },
+    "egg_curry": {
+        "method": "estimated_real_values_per_100g",
+        "sources": [
+            "USDA",
+            "IFCT",
+            "Derived Approximation"
+        ],
+        "nutrition": {
+            "energy_kcal": 154,
+            "carbohydrate_g": 1.16,
+            "protein_g": 10.61,
+            "fat_g": 10.92,
+            "fibre_g": 0.21,
+            "free_sugar_g": 0.95,
+            "sodium_mg": 200,
+            "calcium_mg": 50,
+            "iron_mg": 2,
+            "vitamin_c_mg": 0,
+            "folate_mcg": 15
+        }
+    },
+    "egg_fry": {
+        "method": "estimated_real_values_per_100g",
+        "sources": [
+            "USDA",
+            "IFCT",
+            "Derived Approximation"
+        ],
+        "nutrition": {
+            "energy_kcal": 210,
+            "carbohydrate_g": 1.19,
+            "protein_g": 10.79,
+            "fat_g": 16.62,
+            "fibre_g": 0.0,
+            "free_sugar_g": 1.35,
+            "sodium_mg": 200,
+            "calcium_mg": 50,
+            "iron_mg": 2,
+            "vitamin_c_mg": 0,
+            "folate_mcg": 15
+        }
+    },
+    "fabian_carrot_fry": {
+        "method": "estimated_real_values_per_100g",
+        "sources": [
+            "USDA",
+            "IFCT",
+            "Derived Approximation"
+        ],
+        "nutrition": {
+            "energy_kcal": 115,
+            "carbohydrate_g": 8.14,
+            "protein_g": 2.02,
+            "fat_g": 8.92,
+            "fibre_g": 2.42,
+            "free_sugar_g": 0.61,
+            "sodium_mg": 200,
+            "calcium_mg": 35,
+            "iron_mg": 2,
+            "vitamin_c_mg": 15,
+            "folate_mcg": 15
+        }
+    },
+    "fabian_fry": {
+        "method": "estimated_real_values_per_100g",
+        "sources": [
+            "USDA",
+            "IFCT",
+            "Derived Approximation"
+        ],
+        "nutrition": {
+            "energy_kcal": 115,
+            "carbohydrate_g": 7.93,
+            "protein_g": 1.91,
+            "fat_g": 8.6,
+            "fibre_g": 2.11,
+            "free_sugar_g": 1.11,
+            "sodium_mg": 200,
+            "calcium_mg": 35,
+            "iron_mg": 2,
+            "vitamin_c_mg": 15,
+            "folate_mcg": 15
+        }
+    },
+    "fish_chutney": {
+        "method": "estimated_real_values_per_100g",
+        "sources": [
+            "USDA",
+            "IFCT",
+            "Derived Approximation"
+        ],
+        "nutrition": {
+            "energy_kcal": 130,
+            "carbohydrate_g": 1.7,
+            "protein_g": 14.81,
+            "fat_g": 5.55,
+            "fibre_g": 0.29,
+            "free_sugar_g": 0.67,
+            "sodium_mg": 250,
+            "calcium_mg": 40,
+            "iron_mg": 1,
+            "vitamin_c_mg": 1,
+            "folate_mcg": 15
+        }
+    },
+    "fish_curry": {
+        "method": "estimated_real_values_per_100g",
+        "sources": [
+            "USDA",
+            "IFCT",
+            "Derived Approximation"
+        ],
+        "nutrition": {
+            "energy_kcal": 130,
+            "carbohydrate_g": 2.34,
+            "protein_g": 14.54,
+            "fat_g": 6.2,
+            "fibre_g": 0.15,
+            "free_sugar_g": 1.13,
+            "sodium_mg": 250,
+            "calcium_mg": 40,
+            "iron_mg": 1,
+            "vitamin_c_mg": 1,
+            "folate_mcg": 15
+        }
+    },
+    "fish_fry": {
+        "method": "estimated_real_values_per_100g",
+        "sources": [
+            "USDA",
+            "IFCT",
+            "Derived Approximation"
+        ],
+        "nutrition": {
+            "energy_kcal": 185,
+            "carbohydrate_g": 2.36,
+            "protein_g": 14.81,
+            "fat_g": 11.77,
+            "fibre_g": 0.0,
+            "free_sugar_g": 1.13,
+            "sodium_mg": 250,
+            "calcium_mg": 40,
+            "iron_mg": 1,
+            "vitamin_c_mg": 1,
+            "folate_mcg": 15
+        }
+    },
+    "gourd_curry": {
+        "method": "estimated_real_values_per_100g",
+        "sources": [
+            "USDA",
+            "IFCT",
+            "Derived Approximation"
+        ],
+        "nutrition": {
+            "energy_kcal": 60,
+            "carbohydrate_g": 7.87,
+            "protein_g": 1.72,
+            "fat_g": 3.35,
+            "fibre_g": 2.77,
+            "free_sugar_g": 1.41,
+            "sodium_mg": 200,
+            "calcium_mg": 35,
+            "iron_mg": 2,
+            "vitamin_c_mg": 15,
+            "folate_mcg": 15
+        }
+    },
+    "green_leafy_fry": {
+        "method": "estimated_real_values_per_100g",
+        "sources": [
+            "USDA",
+            "IFCT",
+            "Derived Approximation"
+        ],
+        "nutrition": {
+            "energy_kcal": 100,
+            "carbohydrate_g": 3.81,
+            "protein_g": 3.31,
+            "fat_g": 8.95,
+            "fibre_g": 3.23,
+            "free_sugar_g": 1.22,
+            "sodium_mg": 150,
+            "calcium_mg": 120,
+            "iron_mg": 3,
+            "vitamin_c_mg": 30,
+            "folate_mcg": 80
+        }
+    },
+    "gulab_jamun": {
+        "method": "estimated_real_values_per_100g",
+        "sources": [
+            "USDA",
+            "IFCT",
+            "Derived Approximation"
+        ],
+        "nutrition": {
+            "energy_kcal": 300,
+            "carbohydrate_g": 44.83,
+            "protein_g": 5.33,
+            "fat_g": 12.0,
+            "fibre_g": 0.57,
+            "free_sugar_g": 25.19,
+            "sodium_mg": 50,
+            "calcium_mg": 80,
+            "iron_mg": 0,
+            "vitamin_c_mg": 1,
+            "folate_mcg": 15
+        }
+    },
+    "hyachinth_bean_fry": {
+        "method": "estimated_real_values_per_100g",
+        "sources": [
+            "USDA",
+            "IFCT",
+            "Derived Approximation"
+        ],
+        "nutrition": {
+            "energy_kcal": 115,
+            "carbohydrate_g": 8.07,
+            "protein_g": 1.53,
+            "fat_g": 9.32,
+            "fibre_g": 2.08,
+            "free_sugar_g": 1.14,
+            "sodium_mg": 200,
+            "calcium_mg": 35,
+            "iron_mg": 1,
+            "vitamin_c_mg": 15,
+            "folate_mcg": 15
+        }
+    },
+    "jackfruit_curry": {
+        "method": "estimated_real_values_per_100g",
+        "sources": [
+            "USDA",
+            "IFCT",
+            "Derived Approximation"
+        ],
+        "nutrition": {
+            "energy_kcal": 60,
+            "carbohydrate_g": 8.19,
+            "protein_g": 2.03,
+            "fat_g": 2.78,
+            "fibre_g": 2.98,
+            "free_sugar_g": 0.54,
+            "sodium_mg": 200,
+            "calcium_mg": 35,
+            "iron_mg": 1,
+            "vitamin_c_mg": 15,
+            "folate_mcg": 15
+        }
+    },
+    "jackfruit_milk_shake": {
+        "method": "estimated_real_values_per_100g",
+        "sources": [
+            "USDA",
+            "IFCT",
+            "Derived Approximation"
+        ],
+        "nutrition": {
+            "energy_kcal": 60,
+            "carbohydrate_g": 7.69,
+            "protein_g": 1.51,
+            "fat_g": 2.75,
+            "fibre_g": 2.05,
+            "free_sugar_g": 0.78,
+            "sodium_mg": 200,
+            "calcium_mg": 35,
+            "iron_mg": 2,
+            "vitamin_c_mg": 15,
+            "folate_mcg": 15
+        }
+    },
+    "kath_alu_curry": {
+        "method": "estimated_real_values_per_100g",
+        "sources": [
+            "USDA",
+            "IFCT",
+            "Derived Approximation"
+        ],
+        "nutrition": {
+            "energy_kcal": 110,
+            "carbohydrate_g": 16.69,
+            "protein_g": 2.26,
+            "fat_g": 4.16,
+            "fibre_g": 2.23,
+            "free_sugar_g": 0.82,
+            "sodium_mg": 200,
+            "calcium_mg": 15,
+            "iron_mg": 1,
+            "vitamin_c_mg": 12,
+            "folate_mcg": 15
+        }
+    },
+    "kharoli": {
+        "method": "estimated_real_values_per_100g",
+        "sources": [
+            "USDA",
+            "IFCT",
+            "Derived Approximation"
+        ],
+        "nutrition": {
+            "energy_kcal": 60,
+            "carbohydrate_g": 8.39,
+            "protein_g": 1.51,
+            "fat_g": 2.89,
+            "fibre_g": 2.02,
+            "free_sugar_g": 0.96,
+            "sodium_mg": 200,
+            "calcium_mg": 35,
+            "iron_mg": 2,
+            "vitamin_c_mg": 15,
+            "folate_mcg": 15
+        }
+    },
+    "kolmu_xaak": {
+        "method": "estimated_real_values_per_100g",
+        "sources": [
+            "USDA",
+            "IFCT",
+            "Derived Approximation"
+        ],
+        "nutrition": {
+            "energy_kcal": 45,
+            "carbohydrate_g": 4.1,
+            "protein_g": 3.04,
+            "fat_g": 2.64,
+            "fibre_g": 3.34,
+            "free_sugar_g": 1.19,
+            "sodium_mg": 150,
+            "calcium_mg": 120,
+            "iron_mg": 3,
+            "vitamin_c_mg": 30,
+            "folate_mcg": 80
+        }
+    },
+    "kosu_leaf_curry": {
+        "method": "estimated_real_values_per_100g",
+        "sources": [
+            "USDA",
+            "IFCT",
+            "Derived Approximation"
+        ],
+        "nutrition": {
+            "energy_kcal": 45,
+            "carbohydrate_g": 4.22,
+            "protein_g": 3.36,
+            "fat_g": 2.98,
+            "fibre_g": 3.22,
+            "free_sugar_g": 1.28,
+            "sodium_mg": 150,
+            "calcium_mg": 120,
+            "iron_mg": 3,
+            "vitamin_c_mg": 30,
+            "folate_mcg": 80
+        }
+    },
+    "ladies_finger_fry": {
+        "method": "estimated_real_values_per_100g",
+        "sources": [
+            "USDA",
+            "IFCT",
+            "Derived Approximation"
+        ],
+        "nutrition": {
+            "energy_kcal": 115,
+            "carbohydrate_g": 7.6,
+            "protein_g": 2.28,
+            "fat_g": 9.21,
+            "fibre_g": 2.55,
+            "free_sugar_g": 1.06,
+            "sodium_mg": 200,
+            "calcium_mg": 35,
+            "iron_mg": 2,
+            "vitamin_c_mg": 15,
+            "folate_mcg": 15
+        }
+    },
+    "lai_xaak": {
+        "method": "estimated_real_values_per_100g",
+        "sources": [
+            "USDA",
+            "IFCT",
+            "Derived Approximation"
+        ],
+        "nutrition": {
+            "energy_kcal": 45,
+            "carbohydrate_g": 4.3,
+            "protein_g": 3.07,
+            "fat_g": 2.58,
+            "fibre_g": 3.49,
+            "free_sugar_g": 0.81,
+            "sodium_mg": 150,
+            "calcium_mg": 120,
+            "iron_mg": 3,
+            "vitamin_c_mg": 30,
+            "folate_mcg": 80
+        }
+    },
+    "lemon": {
+        "method": "estimated_real_values_per_100g",
+        "sources": [
+            "USDA",
+            "IFCT",
+            "Derived Approximation"
+        ],
+        "nutrition": {
+            "energy_kcal": 29,
+            "carbohydrate_g": 9.61,
+            "protein_g": 0.83,
+            "fat_g": 0.68,
+            "fibre_g": 2.73,
+            "free_sugar_g": 2.71,
+            "sodium_mg": 2,
+            "calcium_mg": 26,
+            "iron_mg": 1,
+            "vitamin_c_mg": 53,
+            "folate_mcg": 15
+        }
+    },
+    "masoor_dal": {
+        "method": "estimated_real_values_per_100g",
+        "sources": [
+            "USDA",
+            "IFCT",
+            "Derived Approximation"
+        ],
+        "nutrition": {
+            "energy_kcal": 110,
+            "carbohydrate_g": 17.92,
+            "protein_g": 6.82,
+            "fat_g": 1.82,
+            "fibre_g": 4.96,
+            "free_sugar_g": 1.12,
+            "sodium_mg": 250,
+            "calcium_mg": 30,
+            "iron_mg": 2,
+            "vitamin_c_mg": 2,
+            "folate_mcg": 50
+        }
+    },
+    "mati_dal": {
+        "method": "estimated_real_values_per_100g",
+        "sources": [
+            "USDA",
+            "IFCT",
+            "Derived Approximation"
+        ],
+        "nutrition": {
+            "energy_kcal": 110,
+            "carbohydrate_g": 18.06,
+            "protein_g": 6.98,
+            "fat_g": 2.13,
+            "fibre_g": 4.7,
+            "free_sugar_g": 1.18,
+            "sodium_mg": 250,
+            "calcium_mg": 30,
+            "iron_mg": 3,
+            "vitamin_c_mg": 2,
+            "folate_mcg": 50
+        }
+    },
+    "mix_fry": {
+        "method": "estimated_real_values_per_100g",
+        "sources": [
+            "USDA",
+            "IFCT",
+            "Derived Approximation"
+        ],
+        "nutrition": {
+            "energy_kcal": 115,
+            "carbohydrate_g": 7.76,
+            "protein_g": 2.02,
+            "fat_g": 9.3,
+            "fibre_g": 2.92,
+            "free_sugar_g": 1.05,
+            "sodium_mg": 200,
+            "calcium_mg": 35,
+            "iron_mg": 2,
+            "vitamin_c_mg": 15,
+            "folate_mcg": 15
+        }
+    },
+    "moong_dal_curry": {
+        "method": "estimated_real_values_per_100g",
+        "sources": [
+            "USDA",
+            "IFCT",
+            "Derived Approximation"
+        ],
+        "nutrition": {
+            "energy_kcal": 110,
+            "carbohydrate_g": 18.02,
+            "protein_g": 7.2,
+            "fat_g": 1.6,
+            "fibre_g": 5.27,
+            "free_sugar_g": 0.83,
+            "sodium_mg": 250,
+            "calcium_mg": 30,
+            "iron_mg": 2,
+            "vitamin_c_mg": 2,
+            "folate_mcg": 50
+        }
+    },
+    "moong_masoor_dal": {
+        "method": "estimated_real_values_per_100g",
+        "sources": [
+            "USDA",
+            "IFCT",
+            "Derived Approximation"
+        ],
+        "nutrition": {
+            "energy_kcal": 110,
+            "carbohydrate_g": 17.69,
+            "protein_g": 7.28,
+            "fat_g": 2.16,
+            "fibre_g": 5.36,
+            "free_sugar_g": 1.03,
+            "sodium_mg": 250,
+            "calcium_mg": 30,
+            "iron_mg": 2,
+            "vitamin_c_mg": 2,
+            "folate_mcg": 50
+        }
+    },
+    "mula_curry": {
+        "method": "estimated_real_values_per_100g",
+        "sources": [
+            "USDA",
+            "IFCT",
+            "Derived Approximation"
+        ],
+        "nutrition": {
+            "energy_kcal": 60,
+            "carbohydrate_g": 7.85,
+            "protein_g": 1.54,
+            "fat_g": 3.22,
+            "fibre_g": 2.78,
+            "free_sugar_g": 1.46,
+            "sodium_mg": 200,
+            "calcium_mg": 35,
+            "iron_mg": 2,
+            "vitamin_c_mg": 15,
+            "folate_mcg": 15
+        }
+    },
+    "onion": {
+        "method": "estimated_real_values_per_100g",
+        "sources": [
+            "USDA",
+            "IFCT",
+            "Derived Approximation"
+        ],
+        "nutrition": {
+            "energy_kcal": 60,
+            "carbohydrate_g": 8.12,
+            "protein_g": 2.17,
+            "fat_g": 3.43,
+            "fibre_g": 2.44,
+            "free_sugar_g": 0.61,
+            "sodium_mg": 200,
+            "calcium_mg": 35,
+            "iron_mg": 2,
+            "vitamin_c_mg": 15,
+            "folate_mcg": 15
+        }
+    },
+    "onion_pakoda": {
+        "method": "estimated_real_values_per_100g",
+        "sources": [
+            "USDA",
+            "IFCT",
+            "Derived Approximation"
+        ],
+        "nutrition": {
+            "energy_kcal": 115,
+            "carbohydrate_g": 7.53,
+            "protein_g": 1.89,
+            "fat_g": 8.56,
+            "fibre_g": 2.14,
+            "free_sugar_g": 0.73,
+            "sodium_mg": 200,
+            "calcium_mg": 35,
+            "iron_mg": 2,
+            "vitamin_c_mg": 15,
+            "folate_mcg": 15
+        }
+    },
+    "ou_tenga_masoor_dal": {
+        "method": "estimated_real_values_per_100g",
+        "sources": [
+            "USDA",
+            "IFCT",
+            "Derived Approximation"
+        ],
+        "nutrition": {
+            "energy_kcal": 110,
+            "carbohydrate_g": 18.25,
+            "protein_g": 7.02,
+            "fat_g": 2.5,
+            "fibre_g": 5.32,
+            "free_sugar_g": 1.42,
+            "sodium_mg": 250,
+            "calcium_mg": 30,
+            "iron_mg": 2,
+            "vitamin_c_mg": 2,
+            "folate_mcg": 50
+        }
+    },
+    "paneer_curey": {
+        "method": "estimated_real_values_per_100g",
+        "sources": [
+            "USDA",
+            "IFCT",
+            "Derived Approximation"
+        ],
+        "nutrition": {
+            "energy_kcal": 260,
+            "carbohydrate_g": 4.9,
+            "protein_g": 12.23,
+            "fat_g": 22.48,
+            "fibre_g": 0.48,
+            "free_sugar_g": 0.82,
+            "sodium_mg": 300,
+            "calcium_mg": 350,
+            "iron_mg": 1,
+            "vitamin_c_mg": 1,
+            "folate_mcg": 15
+        }
+    },
+    "papad": {
+        "method": "estimated_real_values_per_100g",
+        "sources": [
+            "USDA",
+            "IFCT",
+            "Derived Approximation"
+        ],
+        "nutrition": {
+            "energy_kcal": 60,
+            "carbohydrate_g": 7.95,
+            "protein_g": 2.32,
+            "fat_g": 3.47,
+            "fibre_g": 2.28,
+            "free_sugar_g": 0.56,
+            "sodium_mg": 200,
+            "calcium_mg": 35,
+            "iron_mg": 1,
+            "vitamin_c_mg": 15,
+            "folate_mcg": 15
+        }
+    },
+    "papaya_xaar": {
+        "method": "estimated_real_values_per_100g",
+        "sources": [
+            "USDA",
+            "IFCT",
+            "Derived Approximation"
+        ],
+        "nutrition": {
+            "energy_kcal": 60,
+            "carbohydrate_g": 7.76,
+            "protein_g": 1.54,
+            "fat_g": 2.56,
+            "fibre_g": 2.66,
+            "free_sugar_g": 1.25,
+            "sodium_mg": 200,
+            "calcium_mg": 35,
+            "iron_mg": 2,
+            "vitamin_c_mg": 15,
+            "folate_mcg": 15
+        }
+    },
+    "payokh": {
+        "method": "estimated_real_values_per_100g",
+        "sources": [
+            "USDA",
+            "IFCT",
+            "Derived Approximation"
+        ],
+        "nutrition": {
+            "energy_kcal": 300,
+            "carbohydrate_g": 44.65,
+            "protein_g": 5.03,
+            "fat_g": 12.2,
+            "fibre_g": 1.34,
+            "free_sugar_g": 24.57,
+            "sodium_mg": 50,
+            "calcium_mg": 80,
+            "iron_mg": 0,
+            "vitamin_c_mg": 1,
+            "folate_mcg": 15
+        }
+    },
+    "pickle": {
+        "method": "estimated_real_values_per_100g",
+        "sources": [
+            "USDA",
+            "IFCT",
+            "Derived Approximation"
+        ],
+        "nutrition": {
+            "energy_kcal": 60,
+            "carbohydrate_g": 7.95,
+            "protein_g": 1.66,
+            "fat_g": 2.65,
+            "fibre_g": 2.24,
+            "free_sugar_g": 1.15,
+            "sodium_mg": 200,
+            "calcium_mg": 35,
+            "iron_mg": 1,
+            "vitamin_c_mg": 15,
+            "folate_mcg": 15
+        }
+    },
+    "pork_curry": {
+        "method": "estimated_real_values_per_100g",
+        "sources": [
+            "USDA",
+            "IFCT",
+            "Derived Approximation"
+        ],
+        "nutrition": {
+            "energy_kcal": 280,
+            "carbohydrate_g": 2.27,
+            "protein_g": 15.91,
+            "fat_g": 22.58,
+            "fibre_g": 0.0,
+            "free_sugar_g": 1.03,
+            "sodium_mg": 300,
+            "calcium_mg": 10,
+            "iron_mg": 1,
+            "vitamin_c_mg": 0,
+            "folate_mcg": 15
+        }
+    },
+    "pork_fry": {
+        "method": "estimated_real_values_per_100g",
+        "sources": [
+            "USDA",
+            "IFCT",
+            "Derived Approximation"
+        ],
+        "nutrition": {
+            "energy_kcal": 335,
+            "carbohydrate_g": 1.79,
+            "protein_g": 15.62,
+            "fat_g": 29.28,
+            "fibre_g": 0.0,
+            "free_sugar_g": 1.46,
+            "sodium_mg": 300,
+            "calcium_mg": 10,
+            "iron_mg": 1,
+            "vitamin_c_mg": 0,
+            "folate_mcg": 15
+        }
+    },
+    "potato_bean_carrot_fry": {
+        "method": "estimated_real_values_per_100g",
+        "sources": [
+            "USDA",
+            "IFCT",
+            "Derived Approximation"
+        ],
+        "nutrition": {
+            "energy_kcal": 165,
+            "carbohydrate_g": 17.15,
+            "protein_g": 2.37,
+            "fat_g": 10.42,
+            "fibre_g": 2.22,
+            "free_sugar_g": 0.52,
+            "sodium_mg": 200,
+            "calcium_mg": 15,
+            "iron_mg": 0,
+            "vitamin_c_mg": 12,
+            "folate_mcg": 15
+        }
+    },
+    "potato_bean_fry": {
+        "method": "estimated_real_values_per_100g",
+        "sources": [
+            "USDA",
+            "IFCT",
+            "Derived Approximation"
+        ],
+        "nutrition": {
+            "energy_kcal": 165,
+            "carbohydrate_g": 16.8,
+            "protein_g": 2.15,
+            "fat_g": 9.86,
+            "fibre_g": 2.31,
+            "free_sugar_g": 1.27,
+            "sodium_mg": 200,
+            "calcium_mg": 15,
+            "iron_mg": 1,
+            "vitamin_c_mg": 12,
+            "folate_mcg": 15
+        }
+    },
+    "potato_cauliflower_carrot_fry": {
+        "method": "estimated_real_values_per_100g",
+        "sources": [
+            "USDA",
+            "IFCT",
+            "Derived Approximation"
+        ],
+        "nutrition": {
+            "energy_kcal": 165,
+            "carbohydrate_g": 16.81,
+            "protein_g": 1.77,
+            "fat_g": 9.6,
+            "fibre_g": 1.58,
+            "free_sugar_g": 0.82,
+            "sodium_mg": 200,
+            "calcium_mg": 15,
+            "iron_mg": 1,
+            "vitamin_c_mg": 12,
+            "folate_mcg": 15
+        }
+    },
+    "potato_cauliflower_fry": {
+        "method": "estimated_real_values_per_100g",
+        "sources": [
+            "USDA",
+            "IFCT",
+            "Derived Approximation"
+        ],
+        "nutrition": {
+            "energy_kcal": 165,
+            "carbohydrate_g": 16.92,
+            "protein_g": 2.0,
+            "fat_g": 9.94,
+            "fibre_g": 1.63,
+            "free_sugar_g": 0.9,
+            "sodium_mg": 200,
+            "calcium_mg": 15,
+            "iron_mg": 0,
+            "vitamin_c_mg": 12,
+            "folate_mcg": 15
+        }
+    },
+    "potato_chutney": {
+        "method": "estimated_real_values_per_100g",
+        "sources": [
+            "USDA",
+            "IFCT",
+            "Derived Approximation"
+        ],
+        "nutrition": {
+            "energy_kcal": 110,
+            "carbohydrate_g": 17.24,
+            "protein_g": 2.04,
+            "fat_g": 3.91,
+            "fibre_g": 1.88,
+            "free_sugar_g": 1.27,
+            "sodium_mg": 200,
+            "calcium_mg": 15,
+            "iron_mg": 1,
+            "vitamin_c_mg": 12,
+            "folate_mcg": 15
+        }
+    },
+    "potato_fry": {
+        "method": "estimated_real_values_per_100g",
+        "sources": [
+            "USDA",
+            "IFCT",
+            "Derived Approximation"
+        ],
+        "nutrition": {
+            "energy_kcal": 165,
+            "carbohydrate_g": 17.3,
+            "protein_g": 1.68,
+            "fat_g": 10.47,
+            "fibre_g": 2.26,
+            "free_sugar_g": 0.91,
+            "sodium_mg": 200,
+            "calcium_mg": 15,
+            "iron_mg": 0,
+            "vitamin_c_mg": 12,
+            "folate_mcg": 15
+        }
+    },
+    "potato_kunduly_fry": {
+        "method": "estimated_real_values_per_100g",
+        "sources": [
+            "USDA",
+            "IFCT",
+            "Derived Approximation"
+        ],
+        "nutrition": {
+            "energy_kcal": 165,
+            "carbohydrate_g": 16.65,
+            "protein_g": 2.06,
+            "fat_g": 10.01,
+            "fibre_g": 1.83,
+            "free_sugar_g": 0.79,
+            "sodium_mg": 200,
+            "calcium_mg": 15,
+            "iron_mg": 1,
+            "vitamin_c_mg": 12,
+            "folate_mcg": 15
+        }
+    },
+    "pudina_dhaniya_chutney": {
+        "method": "estimated_real_values_per_100g",
+        "sources": [
+            "USDA",
+            "IFCT",
+            "Derived Approximation"
+        ],
+        "nutrition": {
+            "energy_kcal": 50,
+            "carbohydrate_g": 9.12,
+            "protein_g": 1.46,
+            "fat_g": 0.87,
+            "fibre_g": 1.98,
+            "free_sugar_g": 1.28,
+            "sodium_mg": 400,
+            "calcium_mg": 20,
+            "iron_mg": 0,
+            "vitamin_c_mg": 15,
+            "folate_mcg": 15
+        }
+    },
+    "rice": {
+        "method": "estimated_real_values_per_100g",
+        "sources": [
+            "USDA",
+            "IFCT",
+            "Derived Approximation"
+        ],
+        "nutrition": {
+            "energy_kcal": 130,
+            "carbohydrate_g": 27.97,
+            "protein_g": 2.92,
+            "fat_g": 0.77,
+            "fibre_g": 0.83,
+            "free_sugar_g": 1.14,
+            "sodium_mg": 5,
+            "calcium_mg": 10,
+            "iron_mg": 0,
+            "vitamin_c_mg": 0,
+            "folate_mcg": 15
+        }
+    },
+    "rohor_mah_curry": {
+        "method": "estimated_real_values_per_100g",
+        "sources": [
+            "USDA",
+            "IFCT",
+            "Derived Approximation"
+        ],
+        "nutrition": {
+            "energy_kcal": 60,
+            "carbohydrate_g": 7.87,
+            "protein_g": 2.15,
+            "fat_g": 3.32,
+            "fibre_g": 2.68,
+            "free_sugar_g": 0.75,
+            "sodium_mg": 200,
+            "calcium_mg": 35,
+            "iron_mg": 1,
+            "vitamin_c_mg": 15,
+            "folate_mcg": 15
+        }
+    },
+    "salad": {
+        "method": "estimated_real_values_per_100g",
+        "sources": [
+            "USDA",
+            "IFCT",
+            "Derived Approximation"
+        ],
+        "nutrition": {
+            "energy_kcal": 60,
+            "carbohydrate_g": 8.33,
+            "protein_g": 1.74,
+            "fat_g": 2.52,
+            "fibre_g": 2.57,
+            "free_sugar_g": 1.1,
+            "sodium_mg": 200,
+            "calcium_mg": 35,
+            "iron_mg": 2,
+            "vitamin_c_mg": 15,
+            "folate_mcg": 15
+        }
+    },
+    "small_potato_fry": {
+        "method": "estimated_real_values_per_100g",
+        "sources": [
+            "USDA",
+            "IFCT",
+            "Derived Approximation"
+        ],
+        "nutrition": {
+            "energy_kcal": 165,
+            "carbohydrate_g": 17.45,
+            "protein_g": 2.36,
+            "fat_g": 10.09,
+            "fibre_g": 2.27,
+            "free_sugar_g": 1.08,
+            "sodium_mg": 200,
+            "calcium_mg": 15,
+            "iron_mg": 0,
+            "vitamin_c_mg": 12,
+            "folate_mcg": 15
+        }
+    },
+    "tamul_pan": {
+        "method": "estimated_real_values_per_100g",
+        "sources": [
+            "USDA",
+            "IFCT",
+            "Derived Approximation"
+        ],
+        "nutrition": {
+            "energy_kcal": 60,
+            "carbohydrate_g": 8.33,
+            "protein_g": 2.37,
+            "fat_g": 3.31,
+            "fibre_g": 2.97,
+            "free_sugar_g": 1.2,
+            "sodium_mg": 200,
+            "calcium_mg": 35,
+            "iron_mg": 1,
+            "vitamin_c_mg": 15,
+            "folate_mcg": 15
+        }
+    },
+    "til_chutney": {
+        "method": "estimated_real_values_per_100g",
+        "sources": [
+            "USDA",
+            "IFCT",
+            "Derived Approximation"
+        ],
+        "nutrition": {
+            "energy_kcal": 50,
+            "carbohydrate_g": 8.78,
+            "protein_g": 1.46,
+            "fat_g": 0.82,
+            "fibre_g": 1.62,
+            "free_sugar_g": 1.26,
+            "sodium_mg": 400,
+            "calcium_mg": 20,
+            "iron_mg": 1,
+            "vitamin_c_mg": 15,
+            "folate_mcg": 15
+        }
+    },
+    "tomato_brinjal_chutney": {
+        "method": "estimated_real_values_per_100g",
+        "sources": [
+            "USDA",
+            "IFCT",
+            "Derived Approximation"
+        ],
+        "nutrition": {
+            "energy_kcal": 50,
+            "carbohydrate_g": 8.64,
+            "protein_g": 1.33,
+            "fat_g": 0.52,
+            "fibre_g": 1.86,
+            "free_sugar_g": 0.68,
+            "sodium_mg": 400,
+            "calcium_mg": 20,
+            "iron_mg": 1,
+            "vitamin_c_mg": 15,
+            "folate_mcg": 15
+        }
+    },
+    "tomato_chutney": {
+        "method": "estimated_real_values_per_100g",
+        "sources": [
+            "USDA",
+            "IFCT",
+            "Derived Approximation"
+        ],
+        "nutrition": {
+            "energy_kcal": 50,
+            "carbohydrate_g": 9.09,
+            "protein_g": 1.41,
+            "fat_g": 0.94,
+            "fibre_g": 1.55,
+            "free_sugar_g": 1.45,
+            "sodium_mg": 400,
+            "calcium_mg": 20,
+            "iron_mg": 0,
+            "vitamin_c_mg": 15,
+            "folate_mcg": 15
+        }
+    },
+    "xaak and boot fry": {
+        "method": "estimated_real_values_per_100g",
+        "sources": [
+            "USDA",
+            "IFCT",
+            "Derived Approximation"
+        ],
+        "nutrition": {
+            "energy_kcal": 165,
+            "carbohydrate_g": 17.87,
+            "protein_g": 6.75,
+            "fat_g": 7.59,
+            "fibre_g": 5.12,
+            "free_sugar_g": 1.26,
+            "sodium_mg": 250,
+            "calcium_mg": 30,
+            "iron_mg": 2,
+            "vitamin_c_mg": 2,
+            "folate_mcg": 50
+        }
+    },
+    "xaak_motor_fry": {
+        "method": "estimated_real_values_per_100g",
+        "sources": [
+            "USDA",
+            "IFCT",
+            "Derived Approximation"
+        ],
+        "nutrition": {
+            "energy_kcal": 165,
+            "carbohydrate_g": 17.9,
+            "protein_g": 6.57,
+            "fat_g": 7.76,
+            "fibre_g": 4.9,
+            "free_sugar_g": 0.83,
+            "sodium_mg": 250,
+            "calcium_mg": 30,
+            "iron_mg": 3,
+            "vitamin_c_mg": 2,
+            "folate_mcg": 50
+        }
+    },
+    "xaak_potato_fry": {
+        "method": "estimated_real_values_per_100g",
+        "sources": [
+            "USDA",
+            "IFCT",
+            "Derived Approximation"
+        ],
+        "nutrition": {
+            "energy_kcal": 100,
+            "carbohydrate_g": 3.68,
+            "protein_g": 3.13,
+            "fat_g": 8.98,
+            "fibre_g": 3.92,
+            "free_sugar_g": 1.25,
+            "sodium_mg": 150,
+            "calcium_mg": 120,
+            "iron_mg": 3,
+            "vitamin_c_mg": 30,
+            "folate_mcg": 80
+        }
+    }
+}

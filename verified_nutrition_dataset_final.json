@@ -1,310 +1,306 @@
 {
     "akhoi": {
-        "method": "verified_real_data",
+        "method": "exact_match",
         "sources": [
-            "Indian_Food_Nutrition_Processed.csv - 'Mathri'"
+            "Indian_Food_Nutrition_Processed.csv - 'Murmura (Puffed rice)'"
         ],
         "nutrition": {
-            "energy_kcal": 805.12,
-            "carbohydrate_g": 12.32,
-            "protein_g": 1.75,
-            "fat_g": 83.1,
-            "sodium_mg": 64.7,
-            "fiber_g": 0.6,
-            "free_sugar_g": 0.29,
-            "calcium_mg": 5.23,
-            "iron_mg": 0.43,
-            "vitamin_c_mg": 0.0,
-            "folate_mcg": 2.38
+            "energy_kcal": 113.32,
+            "carbohydrate_g": 15.67,
+            "protein_g": 3.62,
+            "fat_g": 4.04,
+            "sodium_mg": 22.52,
+            "fiber_g": 0.28,
+            "free_sugar_g": 7.31,
+            "calcium_mg": 103.79,
+            "iron_mg": 0.63,
+            "vitamin_c_mg": 4.82,
+            "folate_mcg": 16.87
         }
     },
     "ash_gourd_curry": {
-        "method": "verified_real_data",
+        "method": "exact_match",
         "sources": [
-            "Indian_Food_Nutrition_Processed.csv - 'Bottle gourd burfi (Ghiya/Lauki burfi)'"
+            "ifct2017_compositions.csv - 'Ash gourd'"
         ],
         "nutrition": {
-            "energy_kcal": 275.96,
-            "carbohydrate_g": 24.51,
-            "protein_g": 5.86,
-            "fat_g": 17.68,
-            "sodium_mg": 18.15,
-            "fiber_g": 0.73,
-            "free_sugar_g": 23.92,
-            "calcium_mg": 215.85,
-            "iron_mg": 0.93,
-            "vitamin_c_mg": 1.08,
-            "folate_mcg": 34.06
+            "energy_kcal": 17.45,
+            "carbohydrate_g": 2.84,
+            "protein_g": 0.79,
+            "fat_g": 0.14,
+            "sodium_mg": 0.77,
+            "fiber_g": 3.37,
+            "free_sugar_g": null,
+            "calcium_mg": 19.39,
+            "iron_mg": 0.47,
+            "vitamin_c_mg": 11.41,
+            "folate_mcg": 14.11
         }
     },
     "bamboo_shoot_chutney": {
-        "method": "verified_real_data",
+        "method": "exact_match",
         "sources": [
-            "Indian_Food_Nutrition_Processed.csv - 'Schezwan chutney'"
+            "Indian_Food_Nutrition_Processed.csv - 'Fermented bamboo shoot pickle (Mesu pickle)'"
         ],
         "nutrition": {
-            "energy_kcal": 205.19,
-            "carbohydrate_g": 10.79,
-            "protein_g": 3.33,
-            "fat_g": 17.72,
-            "sodium_mg": 486.27,
-            "fiber_g": 5.72,
-            "free_sugar_g": 5.66,
-            "calcium_mg": 35.46,
-            "iron_mg": 1.96,
-            "vitamin_c_mg": 26.36,
-            "folate_mcg": 159.08
+            "energy_kcal": 59.83,
+            "carbohydrate_g": 1.73,
+            "protein_g": 1.58,
+            "fat_g": 5.59,
+            "sodium_mg": 161.31,
+            "fiber_g": 2.24,
+            "free_sugar_g": 0.29,
+            "calcium_mg": 16.62,
+            "iron_mg": 0.69,
+            "vitamin_c_mg": 19.87,
+            "folate_mcg": 23.14
         }
     },
     "banana_fry": {
-        "method": "verified_real_data",
+        "method": "exact_match",
         "sources": [
-            "Indian_Food_Nutrition_Processed.csv - 'Banana appam'"
+            "Indian_Food_Nutrition_Processed.csv - 'Banana chips (Kele ke chips)'"
         ],
         "nutrition": {
-            "energy_kcal": 469.81,
-            "carbohydrate_g": 20.06,
-            "protein_g": 1.17,
-            "fat_g": 42.53,
-            "sodium_mg": 20.14,
-            "fiber_g": 0.67,
-            "free_sugar_g": 9.95,
-            "calcium_mg": 13.74,
-            "iron_mg": 0.77,
+            "energy_kcal": 665.67,
+            "carbohydrate_g": 7.32,
+            "protein_g": 0.37,
+            "fat_g": 70.46,
+            "sodium_mg": 86.87,
+            "fiber_g": 0.65,
+            "free_sugar_g": 4.37,
+            "calcium_mg": 2.01,
+            "iron_mg": 0.19,
             "vitamin_c_mg": 4.03,
-            "folate_mcg": 13.79
+            "folate_mcg": 8.97
         }
     },
     "bhat_kerela_fry": {
-        "method": "verified_real_data",
-        "sources": [
-            "Indian_Food_Nutrition_Processed.csv - 'Pineapple pastry '"
-        ],
+        "method": "no_match",
+        "sources": [],
         "nutrition": {
-            "energy_kcal": 208.21,
-            "carbohydrate_g": 29.04,
-            "protein_g": 6.06,
-            "fat_g": 7.87,
-            "sodium_mg": 44.3,
-            "fiber_g": 0.72,
-            "free_sugar_g": 18.83,
-            "calcium_mg": 42.97,
-            "iron_mg": 0.86,
-            "vitamin_c_mg": 3.64,
-            "folate_mcg": 17.42
+            "energy_kcal": null,
+            "carbohydrate_g": null,
+            "protein_g": null,
+            "fat_g": null,
+            "sodium_mg": null,
+            "fiber_g": null,
+            "free_sugar_g": null,
+            "calcium_mg": null,
+            "iron_mg": null,
+            "vitamin_c_mg": null,
+            "folate_mcg": null
         }
     },
     "bhut_chilly": {
-        "method": "verified_real_data",
+        "method": "exact_match",
         "sources": [
-            "Indian_Food_Nutrition_Processed.csv - 'Butter chicken'"
+            "ifct2017_compositions.csv - 'Chillies, green-1'"
         ],
         "nutrition": {
-            "energy_kcal": 137.0,
-            "carbohydrate_g": 3.74,
-            "protein_g": 10.92,
-            "fat_g": 8.7,
-            "sodium_mg": 26.21,
-            "fiber_g": 1.32,
-            "free_sugar_g": 2.37,
-            "calcium_mg": 25.28,
-            "iron_mg": 0.92,
-            "vitamin_c_mg": 32.65,
-            "folate_mcg": 40.85
+            "energy_kcal": 45.65,
+            "carbohydrate_g": 6.32,
+            "protein_g": 2.62,
+            "fat_g": 0.73,
+            "sodium_mg": 3.32,
+            "fiber_g": 4.86,
+            "free_sugar_g": null,
+            "calcium_mg": 24.1,
+            "iron_mg": 1.46,
+            "vitamin_c_mg": 79.5,
+            "folate_mcg": 25.31
         }
     },
     "bitter_gourd_fry": {
-        "method": "verified_real_data",
+        "method": "exact_match",
         "sources": [
-            "Indian_Food_Nutrition_Processed.csv - 'Keema kofta curry'"
+            "USDA.csv - 'BALSAM-PEAR (BITTER GOURD),PODS,CKD,BLD,DRND,WO/SALT'"
         ],
         "nutrition": {
-            "energy_kcal": 154.45,
-            "carbohydrate_g": 5.64,
-            "protein_g": 9.77,
-            "fat_g": 10.39,
-            "sodium_mg": 311.51,
-            "fiber_g": 1.51,
-            "free_sugar_g": 2.14,
-            "calcium_mg": 49.89,
-            "iron_mg": 1.25,
-            "vitamin_c_mg": 2.43,
-            "folate_mcg": 6.6
+            "energy_kcal": 19.0,
+            "carbohydrate_g": 4.32,
+            "protein_g": 0.84,
+            "fat_g": 0.18,
+            "sodium_mg": 6.0,
+            "fiber_g": null,
+            "free_sugar_g": null,
+            "calcium_mg": 9.0,
+            "iron_mg": 0.38,
+            "vitamin_c_mg": 33.0,
+            "folate_mcg": null
         }
     },
     "bitter_gourd_potato_fry": {
-        "method": "verified_real_data",
-        "sources": [
-            "Indian_Food_Nutrition_Processed.csv - 'Mooli bhujia'"
-        ],
+        "method": "no_match",
+        "sources": [],
         "nutrition": {
-            "energy_kcal": 91.2,
-            "carbohydrate_g": 4.74,
-            "protein_g": 1.69,
-            "fat_g": 7.25,
-            "sodium_mg": 89.73,
-            "fiber_g": 2.36,
-            "free_sugar_g": 1.07,
-            "calcium_mg": 131.88,
-            "iron_mg": 2.37,
-            "vitamin_c_mg": 80.77,
-            "folate_mcg": 75.87
+            "energy_kcal": null,
+            "carbohydrate_g": null,
+            "protein_g": null,
+            "fat_g": null,
+            "sodium_mg": null,
+            "fiber_g": null,
+            "free_sugar_g": null,
+            "calcium_mg": null,
+            "iron_mg": null,
+            "vitamin_c_mg": null,
+            "folate_mcg": null
         }
     },
     "bogori_amber": {
-        "method": "verified_real_data",
+        "method": "exact_match",
         "sources": [
-            "Indian_Food_Nutrition_Processed.csv - 'Boondi raita'"
+            "Indian_Food_Nutrition_Processed.csv - 'Mango pickle (Aam ka achaar)'"
         ],
         "nutrition": {
-            "energy_kcal": 687.72,
-            "carbohydrate_g": 3.96,
-            "protein_g": 2.19,
-            "fat_g": 73.83,
-            "sodium_mg": 99.18,
-            "fiber_g": 0.46,
-            "free_sugar_g": 1.88,
-            "calcium_mg": 49.0,
-            "iron_mg": 0.24,
-            "vitamin_c_mg": 0.77,
-            "folate_mcg": 37.83
+            "energy_kcal": 192.12,
+            "carbohydrate_g": 8.11,
+            "protein_g": 1.6,
+            "fat_g": 17.89,
+            "sodium_mg": 3429.94,
+            "fiber_g": 3.68,
+            "free_sugar_g": 1.79,
+            "calcium_mg": 48.97,
+            "iron_mg": 1.44,
+            "vitamin_c_mg": null,
+            "folate_mcg": null
         }
     },
     "boil_dal_rice": {
-        "method": "verified_real_data",
+        "method": "exact_match",
         "sources": [
-            "Indian_Food_Nutrition_Processed.csv - 'Mexican rice'"
+            "Indian_Food_Nutrition_Processed.csv - 'Plain khitchdi (Plain khichri/khichdi)'"
         ],
         "nutrition": {
-            "energy_kcal": 120.57,
-            "carbohydrate_g": 14.21,
-            "protein_g": 4.62,
-            "fat_g": 4.88,
-            "sodium_mg": 93.42,
-            "fiber_g": 1.64,
-            "free_sugar_g": 1.44,
-            "calcium_mg": 14.51,
-            "iron_mg": 0.55,
-            "vitamin_c_mg": 42.71,
-            "folate_mcg": 53.09
+            "energy_kcal": 57.03,
+            "carbohydrate_g": 10.04,
+            "protein_g": 1.72,
+            "fat_g": 1.01,
+            "sodium_mg": 37.14,
+            "fiber_g": 0.85,
+            "free_sugar_g": 0.12,
+            "calcium_mg": 5.05,
+            "iron_mg": 0.31,
+            "vitamin_c_mg": 0.83,
+            "folate_mcg": 26.18
         }
     },
     "boiled_egg": {
-        "method": "verified_real_data",
+        "method": "exact_match",
         "sources": [
-            "Indian_Food_Nutrition_Processed.csv - 'Deviled egg'"
+            "Indian_Food_Nutrition_Processed.csv - 'Boiled egg (Ubla anda)'"
         ],
         "nutrition": {
-            "energy_kcal": 98.56,
-            "carbohydrate_g": 2.23,
-            "protein_g": 4.97,
-            "fat_g": 7.72,
-            "sodium_mg": 117.29,
-            "fiber_g": 1.15,
-            "free_sugar_g": 0.82,
-            "calcium_mg": 36.84,
-            "iron_mg": 1.51,
-            "vitamin_c_mg": 18.42,
-            "folate_mcg": 48.39
+            "energy_kcal": 45.35,
+            "carbohydrate_g": 0.12,
+            "protein_g": 4.43,
+            "fat_g": 3.04,
+            "sodium_mg": 170.94,
+            "fiber_g": 0.11,
+            "free_sugar_g": 0.0,
+            "calcium_mg": 17.75,
+            "iron_mg": 0.64,
+            "vitamin_c_mg": 0.0,
+            "folate_mcg": 24.77
         }
     },
     "boiled_ladies_finger": {
-        "method": "verified_real_data",
+        "method": "exact_match",
         "sources": [
-            "Indian_Food_Nutrition_Processed.csv - 'Boondi raita'"
+            "Indian_Food_Nutrition_Processed.csv - 'Okra/Lady's fingers fry (Bhindi sabzi/sabji/subji)'"
         ],
         "nutrition": {
-            "energy_kcal": 687.72,
-            "carbohydrate_g": 3.96,
-            "protein_g": 2.19,
-            "fat_g": 73.83,
-            "sodium_mg": 99.18,
-            "fiber_g": 0.46,
-            "free_sugar_g": 1.88,
-            "calcium_mg": 49.0,
-            "iron_mg": 0.24,
-            "vitamin_c_mg": 0.77,
-            "folate_mcg": 37.83
+            "energy_kcal": 110.81,
+            "carbohydrate_g": 4.5,
+            "protein_g": 1.83,
+            "fat_g": 9.27,
+            "sodium_mg": 92.78,
+            "fiber_g": 3.57,
+            "free_sugar_g": 1.42,
+            "calcium_mg": 67.88,
+            "iron_mg": 0.88,
+            "vitamin_c_mg": 29.07,
+            "folate_mcg": 85.27
         }
     },
     "boiled_pork": {
-        "method": "verified_real_data",
+        "method": "exact_match",
         "sources": [
-            "Indian_Food_Nutrition_Processed.csv - 'Mixed stock'"
+            "ifct2017_compositions.csv - 'Pork, shoulder'"
         ],
         "nutrition": {
-            "energy_kcal": 25.19,
-            "carbohydrate_g": 0.33,
-            "protein_g": 2.06,
-            "fat_g": 1.71,
-            "sodium_mg": 9.51,
-            "fiber_g": 0.15,
-            "free_sugar_g": 0.2,
-            "calcium_mg": 2.06,
-            "iron_mg": 0.07,
-            "vitamin_c_mg": 2.58,
-            "folate_mcg": 16.58
+            "energy_kcal": 237.33,
+            "carbohydrate_g": 0.0,
+            "protein_g": 17.41,
+            "fat_g": 18.83,
+            "sodium_mg": 54.47,
+            "fiber_g": 0.0,
+            "free_sugar_g": null,
+            "calcium_mg": 9.95,
+            "iron_mg": 0.91,
+            "vitamin_c_mg": 0.0,
+            "folate_mcg": 0.0
         }
     },
     "brinjal_chutney": {
-        "method": "verified_real_data",
+        "method": "exact_match",
         "sources": [
-            "Indian_Food_Nutrition_Processed.csv - 'Dil bahar'"
+            "Indian_Food_Nutrition_Processed.csv - 'Brinjal bhartha (Baingan ka bhartha)'"
         ],
         "nutrition": {
-            "energy_kcal": 130.05,
-            "carbohydrate_g": 28.27,
-            "protein_g": 1.52,
-            "fat_g": 1.92,
-            "sodium_mg": 16.65,
-            "fiber_g": 0.02,
-            "free_sugar_g": 27.84,
-            "calcium_mg": 62.58,
-            "iron_mg": 0.13,
-            "vitamin_c_mg": 2.69,
-            "folate_mcg": 10.2
+            "energy_kcal": 65.12,
+            "carbohydrate_g": 4.4,
+            "protein_g": 1.38,
+            "fat_g": 4.48,
+            "sodium_mg": 132.15,
+            "fiber_g": 3.27,
+            "free_sugar_g": 1.82,
+            "calcium_mg": 17.85,
+            "iron_mg": 0.48,
+            "vitamin_c_mg": 24.05,
+            "folate_mcg": 92.42
         }
     },
     "brinjal_curry": {
-        "method": "verified_real_data",
+        "method": "exact_match",
         "sources": [
-            "Indian_Food_Nutrition_Processed.csv - 'Russian salad'"
+            "ifct2017_compositions.csv - 'Brinjal-1'"
         ],
         "nutrition": {
-            "energy_kcal": 114.83,
-            "carbohydrate_g": 6.5,
-            "protein_g": 4.26,
-            "fat_g": 7.84,
-            "sodium_mg": 101.09,
-            "fiber_g": 2.57,
-            "free_sugar_g": 1.66,
-            "calcium_mg": 34.92,
-            "iron_mg": 1.23,
-            "vitamin_c_mg": 49.56,
-            "folate_mcg": 104.32
+            "energy_kcal": 27.25,
+            "carbohydrate_g": 3.49,
+            "protein_g": 1.77,
+            "fat_g": 0.39,
+            "sodium_mg": 3.15,
+            "fiber_g": 3.57,
+            "free_sugar_g": null,
+            "calcium_mg": 22.17,
+            "iron_mg": 0.49,
+            "vitamin_c_mg": 1.58,
+            "folate_mcg": 37.22
         }
     },
     "brinjal_fry": {
-        "method": "verified_real_data",
+        "method": "exact_match",
         "sources": [
-            "Indian_Food_Nutrition_Processed.csv - 'Pineapple pastry '"
+            "ifct2017_compositions.csv - 'Brinjal-1'"
         ],
         "nutrition": {
-            "energy_kcal": 208.21,
-            "carbohydrate_g": 29.04,
-            "protein_g": 6.06,
-            "fat_g": 7.87,
-            "sodium_mg": 44.3,
-            "fiber_g": 0.72,
-            "free_sugar_g": 18.83,
-            "calcium_mg": 42.97,
-            "iron_mg": 0.86,
-            "vitamin_c_mg": 3.64,
-            "folate_mcg": 17.42
+            "energy_kcal": 27.25,
+            "carbohydrate_g": 3.49,
+            "protein_g": 1.77,
+            "fat_g": 0.39,
+            "sodium_mg": 3.15,
+            "fiber_g": 3.57,
+            "free_sugar_g": null,
+            "calcium_mg": 22.17,
+            "iron_mg": 0.49,
+            "vitamin_c_mg": 1.58,
+            "folate_mcg": 37.22
         }
     },
     "brooccoli_fry": {
-        "method": "verified_real_data",
+        "method": "exact_match",
         "sources": [
             "Indian_Food_Nutrition_Processed.csv - 'Broccoli delight'"
         ],
@@ -323,121 +319,117 @@
         }
     },
     "but_chutney": {
-        "method": "verified_real_data",
+        "method": "exact_match",
         "sources": [
-            "Indian_Food_Nutrition_Processed.csv - 'Green chutney'"
+            "Indian_Food_Nutrition_Processed.csv - 'Schezwan chutney'"
         ],
         "nutrition": {
-            "energy_kcal": 79.42,
-            "carbohydrate_g": 10.01,
-            "protein_g": 5.42,
-            "fat_g": 1.6,
-            "sodium_mg": 262.81,
-            "fiber_g": 5.84,
-            "free_sugar_g": 0.92,
-            "calcium_mg": 112.74,
-            "iron_mg": 4.58,
-            "vitamin_c_mg": 7.35,
-            "folate_mcg": 15.53
+            "energy_kcal": 205.19,
+            "carbohydrate_g": 10.79,
+            "protein_g": 3.33,
+            "fat_g": 17.72,
+            "sodium_mg": 486.27,
+            "fiber_g": 5.72,
+            "free_sugar_g": 5.66,
+            "calcium_mg": 35.46,
+            "iron_mg": 1.96,
+            "vitamin_c_mg": 26.36,
+            "folate_mcg": 159.08
         }
     },
     "but_dal": {
-        "method": "verified_real_data",
+        "method": "exact_match",
         "sources": [
-            "Indian_Food_Nutrition_Processed.csv - 'Chhena poda'"
+            "ifct2017_compositions.csv - 'Bengal gram, dal'"
         ],
         "nutrition": {
-            "energy_kcal": 344.57,
-            "carbohydrate_g": 33.64,
-            "protein_g": 13.68,
-            "fat_g": 17.94,
-            "sodium_mg": 13.0,
-            "fiber_g": 1.4,
-            "free_sugar_g": 30.65,
-            "calcium_mg": 295.29,
-            "iron_mg": 1.41,
-            "vitamin_c_mg": 0.09,
-            "folate_mcg": 42.67
+            "energy_kcal": 329.11,
+            "carbohydrate_g": 46.72,
+            "protein_g": 21.55,
+            "fat_g": 5.31,
+            "sodium_mg": 20.83,
+            "fiber_g": 15.15,
+            "free_sugar_g": null,
+            "calcium_mg": 46.32,
+            "iron_mg": 6.08,
+            "vitamin_c_mg": 0.0,
+            "folate_mcg": 182.0
         }
     },
     "but_fry": {
-        "method": "verified_real_data",
+        "method": "exact_match",
         "sources": [
-            "Indian_Food_Nutrition_Processed.csv - 'Coconut finger'"
+            "Indian_Food_Nutrition_Processed.csv - 'Dry washed urad'"
         ],
         "nutrition": {
-            "energy_kcal": 274.86,
-            "carbohydrate_g": 42.56,
-            "protein_g": 7.09,
-            "fat_g": 8.86,
-            "sodium_mg": 46.86,
-            "fiber_g": 1.87,
-            "free_sugar_g": 28.55,
-            "calcium_mg": 24.04,
-            "iron_mg": 1.31,
-            "vitamin_c_mg": 0.0,
-            "folate_mcg": 15.88
+            "energy_kcal": 124.71,
+            "carbohydrate_g": 15.66,
+            "protein_g": 6.85,
+            "fat_g": 3.5,
+            "sodium_mg": 295.79,
+            "fiber_g": 4.06,
+            "free_sugar_g": 0.73,
+            "calcium_mg": 27.08,
+            "iron_mg": 1.89,
+            "vitamin_c_mg": 1.46,
+            "folate_mcg": 40.3
         }
     },
     "but_potato_fry": {
-        "method": "verified_real_data",
-        "sources": [
-            "Indian_Food_Nutrition_Processed.csv - 'Khatta channa'"
-        ],
+        "method": "no_match",
+        "sources": [],
         "nutrition": {
-            "energy_kcal": 202.57,
-            "carbohydrate_g": 21.14,
-            "protein_g": 6.3,
-            "fat_g": 10.56,
-            "sodium_mg": 513.32,
-            "fiber_g": 5.26,
-            "free_sugar_g": 4.75,
-            "calcium_mg": 40.77,
-            "iron_mg": 1.94,
-            "vitamin_c_mg": 20.89,
-            "folate_mcg": 244.23
+            "energy_kcal": null,
+            "carbohydrate_g": null,
+            "protein_g": null,
+            "fat_g": null,
+            "sodium_mg": null,
+            "fiber_g": null,
+            "free_sugar_g": null,
+            "calcium_mg": null,
+            "iron_mg": null,
+            "vitamin_c_mg": null,
+            "folate_mcg": null
         }
     },
     "cabbage_fry": {
-        "method": "verified_real_data",
+        "method": "exact_match",
         "sources": [
-            "Indian_Food_Nutrition_Processed.csv - 'Pickled cabbage '"
+            "USDA.csv - 'CABBAGE,CKD,BLD,DRND,WO/SALT'"
         ],
         "nutrition": {
-            "energy_kcal": 13.69,
-            "carbohydrate_g": 2.56,
-            "protein_g": 0.39,
-            "fat_g": 0.14,
-            "sodium_mg": 121.39,
-            "fiber_g": 0.61,
-            "free_sugar_g": 2.08,
-            "calcium_mg": 15.96,
-            "iron_mg": 0.19,
-            "vitamin_c_mg": 16.63,
-            "folate_mcg": 23.56
+            "energy_kcal": 23.0,
+            "carbohydrate_g": 5.51,
+            "protein_g": 1.27,
+            "fat_g": 0.06,
+            "sodium_mg": 8.0,
+            "fiber_g": null,
+            "free_sugar_g": null,
+            "calcium_mg": 48.0,
+            "iron_mg": 0.17,
+            "vitamin_c_mg": 37.5,
+            "folate_mcg": null
         }
     },
     "capsicum_pakoda": {
-        "method": "verified_real_data",
-        "sources": [
-            "Indian_Food_Nutrition_Processed.csv - 'Chicken korma'"
-        ],
+        "method": "no_match",
+        "sources": [],
         "nutrition": {
-            "energy_kcal": 147.96,
-            "carbohydrate_g": 5.43,
-            "protein_g": 9.83,
-            "fat_g": 9.67,
-            "sodium_mg": 119.21,
-            "fiber_g": 1.82,
-            "free_sugar_g": 3.32,
-            "calcium_mg": 68.66,
-            "iron_mg": 1.06,
-            "vitamin_c_mg": 10.02,
-            "folate_mcg": 58.86
+            "energy_kcal": null,
+            "carbohydrate_g": null,
+            "protein_g": null,
+            "fat_g": null,
+            "sodium_mg": null,
+            "fiber_g": null,
+            "free_sugar_g": null,
+            "calcium_mg": null,
+            "iron_mg": null,
+            "vitamin_c_mg": null,
+            "folate_mcg": null
         }
     },
     "chicken_curry": {
-        "method": "verified_real_data",
+        "method": "exact_match",
         "sources": [
             "Indian_Food_Nutrition_Processed.csv - 'Chicken curry'"
         ],
@@ -456,330 +448,318 @@
         }
     },
     "chicken_fry": {
-        "method": "verified_real_data",
-        "sources": [
-            "Indian_Food_Nutrition_Processed.csv - 'Chicken stew'"
-        ],
+        "method": "no_match",
+        "sources": [],
         "nutrition": {
-            "energy_kcal": 127.55,
-            "carbohydrate_g": 4.44,
-            "protein_g": 7.19,
-            "fat_g": 8.91,
-            "sodium_mg": 79.62,
-            "fiber_g": 1.82,
-            "free_sugar_g": 1.43,
-            "calcium_mg": 31.53,
-            "iron_mg": 0.9,
-            "vitamin_c_mg": 20.89,
-            "folate_mcg": 36.31
+            "energy_kcal": null,
+            "carbohydrate_g": null,
+            "protein_g": null,
+            "fat_g": null,
+            "sodium_mg": null,
+            "fiber_g": null,
+            "free_sugar_g": null,
+            "calcium_mg": null,
+            "iron_mg": null,
+            "vitamin_c_mg": null,
+            "folate_mcg": null
         }
     },
     "chilly": {
-        "method": "verified_real_data",
+        "method": "exact_match",
         "sources": [
-            "Indian_Food_Nutrition_Processed.csv - 'Chilli paneer'"
+            "ifct2017_compositions.csv - 'Chillies, green-1'"
         ],
         "nutrition": {
-            "energy_kcal": 777.51,
-            "carbohydrate_g": 3.31,
-            "protein_g": 2.1,
-            "fat_g": 84.01,
-            "sodium_mg": 89.04,
-            "fiber_g": 0.5,
-            "free_sugar_g": 1.5,
-            "calcium_mg": 42.9,
-            "iron_mg": 0.36,
-            "vitamin_c_mg": 4.87,
-            "folate_mcg": 28.7
+            "energy_kcal": 45.65,
+            "carbohydrate_g": 6.32,
+            "protein_g": 2.62,
+            "fat_g": 0.73,
+            "sodium_mg": 3.32,
+            "fiber_g": 4.86,
+            "free_sugar_g": null,
+            "calcium_mg": 24.1,
+            "iron_mg": 1.46,
+            "vitamin_c_mg": 79.5,
+            "folate_mcg": 25.31
         }
     },
     "chilly_chutney": {
-        "method": "verified_real_data",
+        "method": "exact_match",
         "sources": [
-            "Indian_Food_Nutrition_Processed.csv - 'Schezwan chutney'"
+            "Indian_Food_Nutrition_Processed.csv - 'Green chutney'"
         ],
         "nutrition": {
-            "energy_kcal": 205.19,
-            "carbohydrate_g": 10.79,
-            "protein_g": 3.33,
-            "fat_g": 17.72,
-            "sodium_mg": 486.27,
-            "fiber_g": 5.72,
-            "free_sugar_g": 5.66,
-            "calcium_mg": 35.46,
-            "iron_mg": 1.96,
-            "vitamin_c_mg": 26.36,
-            "folate_mcg": 159.08
+            "energy_kcal": 79.42,
+            "carbohydrate_g": 10.01,
+            "protein_g": 5.42,
+            "fat_g": 1.6,
+            "sodium_mg": 262.81,
+            "fiber_g": 5.84,
+            "free_sugar_g": 0.92,
+            "calcium_mg": 112.74,
+            "iron_mg": 4.58,
+            "vitamin_c_mg": 7.35,
+            "folate_mcg": 15.53
         }
     },
     "curd": {
-        "method": "verified_real_data",
-        "sources": [
-            "Indian_Food_Nutrition_Processed.csv - 'Curd dip'"
-        ],
+        "method": "no_match",
+        "sources": [],
         "nutrition": {
-            "energy_kcal": 79.95,
-            "carbohydrate_g": 7.95,
-            "protein_g": 5.04,
-            "fat_g": 3.36,
-            "sodium_mg": 301.07,
-            "fiber_g": 0.1,
-            "free_sugar_g": 7.12,
-            "calcium_mg": 167.17,
-            "iron_mg": 0.25,
-            "vitamin_c_mg": 0.0,
-            "folate_mcg": 0.0
+            "energy_kcal": null,
+            "carbohydrate_g": null,
+            "protein_g": null,
+            "fat_g": null,
+            "sodium_mg": null,
+            "fiber_g": null,
+            "free_sugar_g": null,
+            "calcium_mg": null,
+            "iron_mg": null,
+            "vitamin_c_mg": null,
+            "folate_mcg": null
         }
     },
     "curry_leaf_curry": {
-        "method": "verified_real_data",
-        "sources": [
-            "Indian_Food_Nutrition_Processed.csv - 'Lobia curry'"
-        ],
+        "method": "no_match",
+        "sources": [],
         "nutrition": {
-            "energy_kcal": 148.99,
-            "carbohydrate_g": 17.88,
-            "protein_g": 6.06,
-            "fat_g": 5.62,
-            "sodium_mg": 355.41,
-            "fiber_g": 4.57,
-            "free_sugar_g": 2.51,
-            "calcium_mg": 36.8,
-            "iron_mg": 2.21,
-            "vitamin_c_mg": 15.13,
-            "folate_mcg": 86.78
+            "energy_kcal": null,
+            "carbohydrate_g": null,
+            "protein_g": null,
+            "fat_g": null,
+            "sodium_mg": null,
+            "fiber_g": null,
+            "free_sugar_g": null,
+            "calcium_mg": null,
+            "iron_mg": null,
+            "vitamin_c_mg": null,
+            "folate_mcg": null
         }
     },
     "dang_bodi_fry": {
-        "method": "verified_real_data",
-        "sources": [
-            "Indian_Food_Nutrition_Processed.csv - 'Melting moments'"
-        ],
+        "method": "no_match",
+        "sources": [],
         "nutrition": {
-            "energy_kcal": 437.91,
-            "carbohydrate_g": 55.84,
-            "protein_g": 5.71,
-            "fat_g": 21.78,
-            "sodium_mg": 119.09,
-            "fiber_g": 1.88,
-            "free_sugar_g": 25.0,
-            "calcium_mg": 30.39,
-            "iron_mg": 1.2,
-            "vitamin_c_mg": 0.0,
-            "folate_mcg": 3.59
+            "energy_kcal": null,
+            "carbohydrate_g": null,
+            "protein_g": null,
+            "fat_g": null,
+            "sodium_mg": null,
+            "fiber_g": null,
+            "free_sugar_g": null,
+            "calcium_mg": null,
+            "iron_mg": null,
+            "vitamin_c_mg": null,
+            "folate_mcg": null
         }
     },
     "dhekia_xaak_fry": {
-        "method": "verified_real_data",
+        "method": "exact_match",
         "sources": [
-            "Indian_Food_Nutrition_Processed.csv - 'Fruit flan'"
+            "USDA.csv - 'FIDDLEHEAD FERNS,RAW'"
         ],
         "nutrition": {
-            "energy_kcal": 261.35,
-            "carbohydrate_g": 34.71,
-            "protein_g": 3.3,
-            "fat_g": 12.48,
-            "sodium_mg": 110.04,
-            "fiber_g": 0.71,
-            "free_sugar_g": 9.52,
-            "calcium_mg": 19.28,
-            "iron_mg": 0.61,
-            "vitamin_c_mg": 3.3,
-            "folate_mcg": 33.99
+            "energy_kcal": 34.0,
+            "carbohydrate_g": 5.54,
+            "protein_g": 4.55,
+            "fat_g": 0.4,
+            "sodium_mg": 1.0,
+            "fiber_g": null,
+            "free_sugar_g": null,
+            "calcium_mg": 32.0,
+            "iron_mg": 1.31,
+            "vitamin_c_mg": 26.6,
+            "folate_mcg": null
         }
     },
     "duck_meat_curry": {
-        "method": "verified_real_data",
+        "method": "exact_match",
         "sources": [
-            "Indian_Food_Nutrition_Processed.csv - 'Dundee cake'"
+            "USDA.csv - 'DUCK,DOMESTICATED,MEAT&SKN,CKD,RSTD'"
         ],
         "nutrition": {
-            "energy_kcal": 396.62,
-            "carbohydrate_g": 41.4,
-            "protein_g": 7.78,
-            "fat_g": 22.7,
-            "sodium_mg": 182.74,
-            "fiber_g": 1.81,
-            "free_sugar_g": 21.3,
-            "calcium_mg": 58.11,
-            "iron_mg": 1.57,
-            "vitamin_c_mg": 0.07,
-            "folate_mcg": 9.22
+            "energy_kcal": 337.0,
+            "carbohydrate_g": 0.0,
+            "protein_g": 18.99,
+            "fat_g": 28.35,
+            "sodium_mg": 59.0,
+            "fiber_g": null,
+            "free_sugar_g": null,
+            "calcium_mg": 11.0,
+            "iron_mg": 2.7,
+            "vitamin_c_mg": 0.0,
+            "folate_mcg": null
         }
     },
     "egg_curry": {
-        "method": "verified_real_data",
+        "method": "exact_match",
         "sources": [
-            "Indian_Food_Nutrition_Processed.csv - 'Paneer curry'"
+            "Indian_Food_Nutrition_Processed.csv - 'Egg curry (Anda curry)'"
         ],
         "nutrition": {
-            "energy_kcal": 176.52,
-            "carbohydrate_g": 8.4,
-            "protein_g": 7.8,
-            "fat_g": 12.38,
-            "sodium_mg": 216.09,
-            "fiber_g": 1.4,
-            "free_sugar_g": 6.29,
-            "calcium_mg": 189.06,
-            "iron_mg": 0.81,
-            "vitamin_c_mg": 20.04,
-            "folate_mcg": 95.56
+            "energy_kcal": 117.52,
+            "carbohydrate_g": 4.03,
+            "protein_g": 5.38,
+            "fat_g": 8.81,
+            "sodium_mg": 142.12,
+            "fiber_g": 2.09,
+            "free_sugar_g": 1.9,
+            "calcium_mg": 41.59,
+            "iron_mg": 1.52,
+            "vitamin_c_mg": 19.03,
+            "folate_mcg": 44.73
         }
     },
     "egg_fry": {
-        "method": "verified_real_data",
+        "method": "exact_match",
         "sources": [
-            "Indian_Food_Nutrition_Processed.csv - 'Egg nog'"
+            "Indian_Food_Nutrition_Processed.csv - 'Fried Egg '"
         ],
         "nutrition": {
-            "energy_kcal": 97.14,
-            "carbohydrate_g": 8.15,
-            "protein_g": 4.78,
-            "fat_g": 5.11,
-            "sodium_mg": 40.65,
-            "fiber_g": 0.02,
-            "free_sugar_g": 8.06,
-            "calcium_mg": 102.13,
-            "iron_mg": 0.43,
-            "vitamin_c_mg": 4.82,
-            "folate_mcg": 41.91
+            "energy_kcal": 223.67,
+            "carbohydrate_g": 0.31,
+            "protein_g": 11.59,
+            "fat_g": 19.62,
+            "sodium_mg": 446.96,
+            "fiber_g": 0.29,
+            "free_sugar_g": 0.0,
+            "calcium_mg": 46.4,
+            "iron_mg": 1.69,
+            "vitamin_c_mg": 0.0,
+            "folate_mcg": 24.77
         }
     },
     "fabian_carrot_fry": {
-        "method": "verified_real_data",
+        "method": "exact_match",
         "sources": [
-            "Indian_Food_Nutrition_Processed.csv - 'Chapati/Roti'"
+            "ifct2017_compositions.csv - 'Carrot, orange'"
         ],
         "nutrition": {
-            "energy_kcal": 202.31,
-            "carbohydrate_g": 35.65,
-            "protein_g": 5.88,
-            "fat_g": 3.56,
-            "sodium_mg": 1.16,
-            "fiber_g": 6.31,
-            "free_sugar_g": 1.0,
-            "calcium_mg": 17.22,
-            "iron_mg": 2.28,
-            "vitamin_c_mg": 0.0,
-            "folate_mcg": 5.84
+            "energy_kcal": 33.22,
+            "carbohydrate_g": 5.55,
+            "protein_g": 0.95,
+            "fat_g": 0.47,
+            "sodium_mg": 52.33,
+            "fiber_g": 4.18,
+            "free_sugar_g": null,
+            "calcium_mg": 35.09,
+            "iron_mg": 0.6,
+            "vitamin_c_mg": 6.22,
+            "folate_mcg": 24.04
         }
     },
     "fabian_fry": {
-        "method": "verified_real_data",
-        "sources": [
-            "Indian_Food_Nutrition_Processed.csv - 'Beans foogath'"
-        ],
+        "method": "no_match",
+        "sources": [],
         "nutrition": {
-            "energy_kcal": 105.06,
-            "carbohydrate_g": 3.26,
-            "protein_g": 2.03,
-            "fat_g": 9.22,
-            "sodium_mg": 81.22,
-            "fiber_g": 4.15,
-            "free_sugar_g": 1.7,
-            "calcium_mg": 44.2,
-            "iron_mg": 0.95,
-            "vitamin_c_mg": 6.36,
-            "folate_mcg": 86.05
+            "energy_kcal": null,
+            "carbohydrate_g": null,
+            "protein_g": null,
+            "fat_g": null,
+            "sodium_mg": null,
+            "fiber_g": null,
+            "free_sugar_g": null,
+            "calcium_mg": null,
+            "iron_mg": null,
+            "vitamin_c_mg": null,
+            "folate_mcg": null
         }
     },
     "fish_chutney": {
-        "method": "verified_real_data",
-        "sources": [
-            "Indian_Food_Nutrition_Processed.csv - 'Fish pie'"
-        ],
+        "method": "no_match",
+        "sources": [],
         "nutrition": {
-            "energy_kcal": 120.9,
-            "carbohydrate_g": 7.74,
-            "protein_g": 9.25,
-            "fat_g": 5.77,
-            "sodium_mg": 101.8,
-            "fiber_g": 0.76,
-            "free_sugar_g": 1.13,
-            "calcium_mg": 36.15,
-            "iron_mg": 0.46,
-            "vitamin_c_mg": 27.02,
-            "folate_mcg": 37.04
+            "energy_kcal": null,
+            "carbohydrate_g": null,
+            "protein_g": null,
+            "fat_g": null,
+            "sodium_mg": null,
+            "fiber_g": null,
+            "free_sugar_g": null,
+            "calcium_mg": null,
+            "iron_mg": null,
+            "vitamin_c_mg": null,
+            "folate_mcg": null
         }
     },
     "fish_curry": {
-        "method": "verified_real_data",
+        "method": "exact_match",
         "sources": [
-            "Indian_Food_Nutrition_Processed.csv - 'Fish orly'"
+            "Indian_Food_Nutrition_Processed.csv - 'Fish curry (Machli curry)'"
         ],
         "nutrition": {
-            "energy_kcal": 563.7,
-            "carbohydrate_g": 4.27,
-            "protein_g": 5.87,
-            "fat_g": 58.18,
-            "sodium_mg": 136.37,
-            "fiber_g": 0.33,
-            "free_sugar_g": 0.24,
-            "calcium_mg": 9.55,
-            "iron_mg": 0.31,
-            "vitamin_c_mg": 1.35,
-            "folate_mcg": 12.83
+            "energy_kcal": 111.13,
+            "carbohydrate_g": 3.77,
+            "protein_g": 8.76,
+            "fat_g": 6.69,
+            "sodium_mg": 184.71,
+            "fiber_g": 1.89,
+            "free_sugar_g": 2.02,
+            "calcium_mg": 52.06,
+            "iron_mg": 1.09,
+            "vitamin_c_mg": 22.48,
+            "folate_mcg": 40.45
         }
     },
     "fish_fry": {
-        "method": "verified_real_data",
+        "method": "exact_match",
         "sources": [
-            "Indian_Food_Nutrition_Processed.csv - 'Fish orly'"
+            "Indian_Food_Nutrition_Processed.csv - 'Fried fish (Indian style) (Tali hui machli)'"
         ],
         "nutrition": {
-            "energy_kcal": 563.7,
-            "carbohydrate_g": 4.27,
-            "protein_g": 5.87,
-            "fat_g": 58.18,
-            "sodium_mg": 136.37,
-            "fiber_g": 0.33,
-            "free_sugar_g": 0.24,
-            "calcium_mg": 9.55,
-            "iron_mg": 0.31,
-            "vitamin_c_mg": 1.35,
-            "folate_mcg": 12.83
+            "energy_kcal": 658.54,
+            "carbohydrate_g": 5.4,
+            "protein_g": 4.35,
+            "fat_g": 68.88,
+            "sodium_mg": 156.94,
+            "fiber_g": 0.61,
+            "free_sugar_g": 0.4,
+            "calcium_mg": 11.11,
+            "iron_mg": 0.56,
+            "vitamin_c_mg": 7.22,
+            "folate_mcg": 35.19
         }
     },
     "gourd_curry": {
-        "method": "verified_real_data",
+        "method": "exact_match",
         "sources": [
-            "Indian_Food_Nutrition_Processed.csv - 'Potato with curd'"
+            "Indian_Food_Nutrition_Processed.csv - 'Stuffed bottle gourd (Stuffed ghiya/lauki)'"
         ],
         "nutrition": {
-            "energy_kcal": 73.18,
-            "carbohydrate_g": 12.01,
-            "protein_g": 3.19,
-            "fat_g": 1.33,
-            "sodium_mg": 190.9,
-            "fiber_g": 1.02,
-            "free_sugar_g": 3.3,
-            "calcium_mg": 85.41,
-            "iron_mg": 0.38,
-            "vitamin_c_mg": 0.0,
-            "folate_mcg": 0.0
+            "energy_kcal": 93.19,
+            "carbohydrate_g": 4.36,
+            "protein_g": 5.84,
+            "fat_g": 5.8,
+            "sodium_mg": 106.99,
+            "fiber_g": 1.18,
+            "free_sugar_g": 1.52,
+            "calcium_mg": 71.83,
+            "iron_mg": 0.66,
+            "vitamin_c_mg": 9.01,
+            "folate_mcg": 92.91
         }
     },
     "green_leafy_fry": {
-        "method": "verified_real_data",
+        "method": "exact_match",
         "sources": [
-            "Indian_Food_Nutrition_Processed.csv - 'Spinach souffle '"
+            "ifct2017_compositions.csv - 'Spinach'"
         ],
         "nutrition": {
-            "energy_kcal": 150.18,
-            "carbohydrate_g": 6.27,
-            "protein_g": 7.36,
-            "fat_g": 10.52,
-            "sodium_mg": 244.07,
-            "fiber_g": 1.44,
-            "free_sugar_g": 0.89,
-            "calcium_mg": 133.69,
-            "iron_mg": 2.15,
+            "energy_kcal": 24.38,
+            "carbohydrate_g": 2.05,
+            "protein_g": 2.14,
+            "fat_g": 0.64,
+            "sodium_mg": 42.55,
+            "fiber_g": 2.38,
+            "free_sugar_g": null,
+            "calcium_mg": 82.29,
+            "iron_mg": 2.95,
             "vitamin_c_mg": 30.28,
-            "folate_mcg": 172.47
+            "folate_mcg": 142.0
         }
     },
     "gulab_jamun": {
-        "method": "verified_real_data",
+        "method": "exact_match",
         "sources": [
             "Indian_Food_Nutrition_Processed.csv - 'Gulab Jamun with khoya'"
         ],
@@ -798,83 +778,81 @@
         }
     },
     "hyachinth_bean_fry": {
-        "method": "verified_real_data",
+        "method": "exact_match",
         "sources": [
-            "Indian_Food_Nutrition_Processed.csv - 'Naan'"
+            "USDA.csv - 'HYACINTH-BEANS,IMMAT SEEDS,CKD,BLD,DRND,WO/SALT'"
         ],
         "nutrition": {
-            "energy_kcal": 286.45,
-            "carbohydrate_g": 51.75,
-            "protein_g": 8.05,
-            "fat_g": 4.99,
-            "sodium_mg": 326.11,
-            "fiber_g": 1.91,
-            "free_sugar_g": 5.59,
-            "calcium_mg": 88.01,
-            "iron_mg": 1.29,
-            "vitamin_c_mg": 0.23,
-            "folate_mcg": 7.56
+            "energy_kcal": 50.0,
+            "carbohydrate_g": 9.2,
+            "protein_g": 2.95,
+            "fat_g": 0.27,
+            "sodium_mg": 2.0,
+            "fiber_g": null,
+            "free_sugar_g": null,
+            "calcium_mg": 41.0,
+            "iron_mg": 0.76,
+            "vitamin_c_mg": 5.1,
+            "folate_mcg": null
         }
     },
     "jackfruit_curry": {
-        "method": "verified_real_data",
+        "method": "exact_match",
         "sources": [
-            "Indian_Food_Nutrition_Processed.csv - 'Jackfruit/Kathal (dry)'"
+            "Indian_Food_Nutrition_Processed.csv - 'Jackfruit sabzi (Kathal ki sabzi)'"
         ],
         "nutrition": {
-            "energy_kcal": 488.97,
-            "carbohydrate_g": 4.56,
-            "protein_g": 0.93,
-            "fat_g": 51.78,
-            "sodium_mg": 33.68,
-            "fiber_g": 1.33,
-            "free_sugar_g": 3.55,
-            "calcium_mg": 12.79,
-            "iron_mg": 0.33,
-            "vitamin_c_mg": 21.72,
-            "folate_mcg": 55.34
+            "energy_kcal": 625.4,
+            "carbohydrate_g": 3.4,
+            "protein_g": 0.69,
+            "fat_g": 67.6,
+            "sodium_mg": 58.95,
+            "fiber_g": 1.02,
+            "free_sugar_g": 2.59,
+            "calcium_mg": 9.85,
+            "iron_mg": 0.27,
+            "vitamin_c_mg": 14.11,
+            "folate_mcg": 32.14
         }
     },
     "jackfruit_milk_shake": {
-        "method": "verified_real_data",
-        "sources": [
-            "Indian_Food_Nutrition_Processed.csv - 'Fruit Loaf '"
-        ],
+        "method": "no_match",
+        "sources": [],
         "nutrition": {
-            "energy_kcal": 324.19,
-            "carbohydrate_g": 46.49,
-            "protein_g": 5.36,
-            "fat_g": 13.31,
-            "sodium_mg": 160.6,
-            "fiber_g": 0.87,
-            "free_sugar_g": 24.54,
-            "calcium_mg": 45.71,
-            "iron_mg": 0.96,
-            "vitamin_c_mg": 2.47,
-            "folate_mcg": 7.82
+            "energy_kcal": null,
+            "carbohydrate_g": null,
+            "protein_g": null,
+            "fat_g": null,
+            "sodium_mg": null,
+            "fiber_g": null,
+            "free_sugar_g": null,
+            "calcium_mg": null,
+            "iron_mg": null,
+            "vitamin_c_mg": null,
+            "folate_mcg": null
         }
     },
     "kath_alu_curry": {
-        "method": "verified_real_data",
+        "method": "exact_match",
         "sources": [
-            "Indian_Food_Nutrition_Processed.csv - 'Dalma'"
+            "ifct2017_compositions.csv - 'Yam, elephant'"
         ],
         "nutrition": {
-            "energy_kcal": 118.93,
-            "carbohydrate_g": 15.04,
-            "protein_g": 4.91,
-            "fat_g": 4.58,
-            "sodium_mg": 49.35,
-            "fiber_g": 2.16,
-            "free_sugar_g": 3.1,
-            "calcium_mg": 54.28,
-            "iron_mg": 2.1,
-            "vitamin_c_mg": 36.63,
-            "folate_mcg": 137.41
+            "energy_kcal": 84.37,
+            "carbohydrate_g": 17.46,
+            "protein_g": 2.56,
+            "fat_g": 0.14,
+            "sodium_mg": 14.33,
+            "fiber_g": 4.17,
+            "free_sugar_g": null,
+            "calcium_mg": 46.91,
+            "iron_mg": 1.22,
+            "vitamin_c_mg": 15.22,
+            "folate_mcg": 20.54
         }
     },
     "kharoli": {
-        "method": "verified_real_data",
+        "method": "exact_match",
         "sources": [
             "Indian_Food_Nutrition_Processed.csv - 'Khakhra'"
         ],
@@ -893,273 +871,269 @@
         }
     },
     "kolmu_xaak": {
-        "method": "verified_real_data",
-        "sources": [
-            "Indian_Food_Nutrition_Processed.csv - 'Spinach souffle '"
-        ],
+        "method": "no_match",
+        "sources": [],
         "nutrition": {
-            "energy_kcal": 150.18,
-            "carbohydrate_g": 6.27,
-            "protein_g": 7.36,
-            "fat_g": 10.52,
-            "sodium_mg": 244.07,
-            "fiber_g": 1.44,
-            "free_sugar_g": 0.89,
-            "calcium_mg": 133.69,
-            "iron_mg": 2.15,
-            "vitamin_c_mg": 30.28,
-            "folate_mcg": 172.47
+            "energy_kcal": null,
+            "carbohydrate_g": null,
+            "protein_g": null,
+            "fat_g": null,
+            "sodium_mg": null,
+            "fiber_g": null,
+            "free_sugar_g": null,
+            "calcium_mg": null,
+            "iron_mg": null,
+            "vitamin_c_mg": null,
+            "folate_mcg": null
         }
     },
     "kosu_leaf_curry": {
-        "method": "verified_real_data",
+        "method": "exact_match",
         "sources": [
-            "Indian_Food_Nutrition_Processed.csv - 'Coleslaw'"
+            "ifct2017_compositions.csv - 'Colocasia leaves, green'"
         ],
         "nutrition": {
-            "energy_kcal": 76.71,
-            "carbohydrate_g": 5.59,
-            "protein_g": 1.24,
-            "fat_g": 5.32,
-            "sodium_mg": 29.87,
-            "fiber_g": 2.34,
-            "free_sugar_g": 3.62,
-            "calcium_mg": 37.0,
-            "iron_mg": 0.63,
-            "vitamin_c_mg": 22.99,
-            "folate_mcg": 41.98
+            "energy_kcal": 43.5,
+            "carbohydrate_g": 3.69,
+            "protein_g": 3.42,
+            "fat_g": 1.38,
+            "sodium_mg": 12.08,
+            "fiber_g": 5.6,
+            "free_sugar_g": null,
+            "calcium_mg": 216.0,
+            "iron_mg": 3.41,
+            "vitamin_c_mg": 40.71,
+            "folate_mcg": 159.0
         }
     },
     "ladies_finger_fry": {
-        "method": "verified_real_data",
+        "method": "exact_match",
         "sources": [
-            "Indian_Food_Nutrition_Processed.csv - 'Phirni'"
+            "Indian_Food_Nutrition_Processed.csv - 'Okra/Lady's fingers fry (Bhindi sabzi/sabji/subji)'"
         ],
         "nutrition": {
-            "energy_kcal": 116.12,
-            "carbohydrate_g": 16.11,
-            "protein_g": 3.49,
-            "fat_g": 4.34,
-            "sodium_mg": 22.47,
-            "fiber_g": 0.36,
-            "free_sugar_g": 10.79,
-            "calcium_mg": 104.57,
-            "iron_mg": 0.23,
-            "vitamin_c_mg": 5.04,
-            "folate_mcg": 20.33
+            "energy_kcal": 110.81,
+            "carbohydrate_g": 4.5,
+            "protein_g": 1.83,
+            "fat_g": 9.27,
+            "sodium_mg": 92.78,
+            "fiber_g": 3.57,
+            "free_sugar_g": 1.42,
+            "calcium_mg": 67.88,
+            "iron_mg": 0.88,
+            "vitamin_c_mg": 29.07,
+            "folate_mcg": 85.27
         }
     },
     "lai_xaak": {
-        "method": "verified_real_data",
+        "method": "exact_match",
         "sources": [
-            "Indian_Food_Nutrition_Processed.csv - 'Mustard sauce'"
+            "ifct2017_compositions.csv - 'Mustard leaves'"
         ],
         "nutrition": {
-            "energy_kcal": 158.58,
-            "carbohydrate_g": 8.29,
-            "protein_g": 3.98,
-            "fat_g": 12.17,
-            "sodium_mg": 22.16,
-            "fiber_g": 0.13,
-            "free_sugar_g": 4.22,
-            "calcium_mg": 109.03,
-            "iron_mg": 0.44,
-            "vitamin_c_mg": 0.0,
-            "folate_mcg": 0.0
+            "energy_kcal": 30.35,
+            "carbohydrate_g": 2.41,
+            "protein_g": 3.52,
+            "fat_g": 0.51,
+            "sodium_mg": 19.14,
+            "fiber_g": 3.92,
+            "free_sugar_g": null,
+            "calcium_mg": 191.0,
+            "iron_mg": 2.84,
+            "vitamin_c_mg": 60.32,
+            "folate_mcg": 110.0
         }
     },
     "lemon": {
-        "method": "verified_real_data",
+        "method": "exact_match",
         "sources": [
-            "Indian_Food_Nutrition_Processed.csv - 'Lemonade'"
+            "ifct2017_compositions.csv - 'Lemon, juice'"
         ],
         "nutrition": {
-            "energy_kcal": 20.8,
-            "carbohydrate_g": 5.48,
-            "protein_g": 0.03,
-            "fat_g": 0.01,
-            "sodium_mg": 28.52,
-            "fiber_g": 0.02,
-            "free_sugar_g": 5.47,
-            "calcium_mg": 1.84,
-            "iron_mg": 0.05,
-            "vitamin_c_mg": 5.27,
-            "folate_mcg": 2.11
+            "energy_kcal": 36.57,
+            "carbohydrate_g": 0.0,
+            "protein_g": 0.41,
+            "fat_g": 0.75,
+            "sodium_mg": 1.21,
+            "fiber_g": 0.0,
+            "free_sugar_g": null,
+            "calcium_mg": 22.68,
+            "iron_mg": 0.12,
+            "vitamin_c_mg": 48.16,
+            "folate_mcg": 12.43
         }
     },
     "masoor_dal": {
-        "method": "verified_real_data",
+        "method": "exact_match",
         "sources": [
-            "Indian_Food_Nutrition_Processed.csv - 'Dum aloo'"
+            "Indian_Food_Nutrition_Processed.csv - 'Whole masoor (Masoor ki dal)'"
         ],
         "nutrition": {
-            "energy_kcal": 682.33,
-            "carbohydrate_g": 3.33,
-            "protein_g": 0.7,
-            "fat_g": 74.01,
-            "sodium_mg": 183.85,
-            "fiber_g": 0.68,
-            "free_sugar_g": 0.71,
-            "calcium_mg": 16.49,
-            "iron_mg": 0.36,
-            "vitamin_c_mg": 29.39,
-            "folate_mcg": 34.41
+            "energy_kcal": 54.05,
+            "carbohydrate_g": 5.37,
+            "protein_g": 2.28,
+            "fat_g": 2.52,
+            "sodium_mg": 123.72,
+            "fiber_g": 1.98,
+            "free_sugar_g": 0.67,
+            "calcium_mg": 12.2,
+            "iron_mg": 0.95,
+            "vitamin_c_mg": 11.04,
+            "folate_mcg": 48.17
         }
     },
     "mati_dal": {
-        "method": "verified_real_data",
+        "method": "exact_match",
         "sources": [
-            "Indian_Food_Nutrition_Processed.csv - 'Bhatura'"
+            "ifct2017_compositions.csv - 'Black gram, dal'"
         ],
         "nutrition": {
-            "energy_kcal": 793.2,
-            "carbohydrate_g": 10.73,
-            "protein_g": 1.63,
-            "fat_g": 82.56,
-            "sodium_mg": 28.3,
-            "fiber_g": 0.38,
-            "free_sugar_g": 0.69,
-            "calcium_mg": 12.12,
-            "iron_mg": 0.33,
-            "vitamin_c_mg": 0.05,
-            "folate_mcg": 4.15
+            "energy_kcal": 324.09,
+            "carbohydrate_g": 51.0,
+            "protein_g": 23.06,
+            "fat_g": 1.69,
+            "sodium_mg": 18.88,
+            "fiber_g": 11.93,
+            "free_sugar_g": null,
+            "calcium_mg": 55.67,
+            "iron_mg": 4.67,
+            "vitamin_c_mg": 0.0,
+            "folate_mcg": 88.75
         }
     },
     "mix_fry": {
-        "method": "verified_real_data",
-        "sources": [
-            "Indian_Food_Nutrition_Processed.csv - 'Mixed vegetable soup'"
-        ],
+        "method": "no_match",
+        "sources": [],
         "nutrition": {
-            "energy_kcal": 35.71,
-            "carbohydrate_g": 2.95,
-            "protein_g": 8.22,
-            "fat_g": 11.66,
-            "sodium_mg": 9202.27,
-            "fiber_g": 1.64,
-            "free_sugar_g": 1.64,
-            "calcium_mg": 50.69,
-            "iron_mg": 1.74,
-            "vitamin_c_mg": 20.06,
-            "folate_mcg": 31.61
+            "energy_kcal": null,
+            "carbohydrate_g": null,
+            "protein_g": null,
+            "fat_g": null,
+            "sodium_mg": null,
+            "fiber_g": null,
+            "free_sugar_g": null,
+            "calcium_mg": null,
+            "iron_mg": null,
+            "vitamin_c_mg": null,
+            "folate_mcg": null
         }
     },
     "moong_dal_curry": {
-        "method": "verified_real_data",
+        "method": "exact_match",
         "sources": [
-            "Indian_Food_Nutrition_Processed.csv - 'Moong dal mixture'"
+            "Indian_Food_Nutrition_Processed.csv - 'Washed moong dal (Dhuli moong ki dal)'"
         ],
         "nutrition": {
-            "energy_kcal": 158.84,
-            "carbohydrate_g": 33.93,
-            "protein_g": 4.62,
-            "fat_g": 1.0,
-            "sodium_mg": 29.6,
-            "fiber_g": 1.9,
-            "free_sugar_g": 24.68,
-            "calcium_mg": 70.53,
-            "iron_mg": 1.25,
-            "vitamin_c_mg": 0.0,
-            "folate_mcg": 0.0
+            "energy_kcal": 50.0,
+            "carbohydrate_g": 5.91,
+            "protein_g": 2.68,
+            "fat_g": 1.68,
+            "sodium_mg": 150.64,
+            "fiber_g": 1.17,
+            "free_sugar_g": 0.12,
+            "calcium_mg": 8.48,
+            "iron_mg": 0.64,
+            "vitamin_c_mg": 0.04,
+            "folate_mcg": 27.98
         }
     },
     "moong_masoor_dal": {
-        "method": "verified_real_data",
+        "method": "exact_match",
         "sources": [
-            "Indian_Food_Nutrition_Processed.csv - 'Whole moong (Moong ki dal)'"
+            "Indian_Food_Nutrition_Processed.csv - 'Whole masoor (Masoor ki dal)'"
         ],
         "nutrition": {
-            "energy_kcal": 53.7,
-            "carbohydrate_g": 5.22,
-            "protein_g": 2.25,
-            "fat_g": 2.56,
-            "sodium_mg": 123.86,
-            "fiber_g": 2.02,
-            "free_sugar_g": 0.59,
-            "calcium_mg": 13.58,
-            "iron_mg": 0.68,
+            "energy_kcal": 54.05,
+            "carbohydrate_g": 5.37,
+            "protein_g": 2.28,
+            "fat_g": 2.52,
+            "sodium_mg": 123.72,
+            "fiber_g": 1.98,
+            "free_sugar_g": 0.67,
+            "calcium_mg": 12.2,
+            "iron_mg": 0.95,
             "vitamin_c_mg": 11.04,
-            "folate_mcg": 55.37
+            "folate_mcg": 48.17
         }
     },
     "mula_curry": {
-        "method": "verified_real_data",
+        "method": "exact_match",
         "sources": [
-            "Indian_Food_Nutrition_Processed.csv - 'Rasbhari'"
+            "ifct2017_compositions.csv - 'Radish, elongate, white skin'"
         ],
         "nutrition": {
-            "energy_kcal": 130.05,
-            "carbohydrate_g": 28.27,
-            "protein_g": 1.52,
-            "fat_g": 1.92,
-            "sodium_mg": 16.65,
-            "fiber_g": 0.02,
-            "free_sugar_g": 27.84,
-            "calcium_mg": 62.58,
-            "iron_mg": 0.13,
-            "vitamin_c_mg": 2.69,
-            "folate_mcg": 10.2
+            "energy_kcal": 32.27,
+            "carbohydrate_g": 6.56,
+            "protein_g": 0.77,
+            "fat_g": 0.15,
+            "sodium_mg": 28.2,
+            "fiber_g": 2.65,
+            "free_sugar_g": null,
+            "calcium_mg": 30.2,
+            "iron_mg": 0.36,
+            "vitamin_c_mg": 19.91,
+            "folate_mcg": 29.75
         }
     },
     "onion": {
-        "method": "verified_real_data",
+        "method": "exact_match",
         "sources": [
-            "Indian_Food_Nutrition_Processed.csv - 'Lemon chiffon pie'"
+            "ifct2017_compositions.csv - 'Onion, big'"
         ],
         "nutrition": {
-            "energy_kcal": 259.31,
-            "carbohydrate_g": 27.63,
-            "protein_g": 4.88,
-            "fat_g": 14.52,
-            "sodium_mg": 94.95,
-            "fiber_g": 0.66,
-            "free_sugar_g": 11.39,
-            "calcium_mg": 34.43,
-            "iron_mg": 0.61,
-            "vitamin_c_mg": 7.18,
-            "folate_mcg": 51.7
+            "energy_kcal": 48.04,
+            "carbohydrate_g": 9.56,
+            "protein_g": 1.5,
+            "fat_g": 0.24,
+            "sodium_mg": 5.5,
+            "fiber_g": 2.45,
+            "free_sugar_g": null,
+            "calcium_mg": 21.03,
+            "iron_mg": 0.43,
+            "vitamin_c_mg": 6.69,
+            "folate_mcg": 28.88
         }
     },
     "onion_pakoda": {
-        "method": "verified_real_data",
+        "method": "exact_match",
         "sources": [
-            "Indian_Food_Nutrition_Processed.csv - 'Chicken pakora/pakoda'"
+            "Indian_Food_Nutrition_Processed.csv - 'Onion pakora/pakoda (Pyaaz ke pakode)'"
         ],
         "nutrition": {
-            "energy_kcal": 590.09,
-            "carbohydrate_g": 4.55,
-            "protein_g": 6.03,
-            "fat_g": 60.98,
-            "sodium_mg": 103.23,
-            "fiber_g": 0.96,
-            "free_sugar_g": 0.22,
-            "calcium_mg": 9.08,
-            "iron_mg": 0.51,
-            "vitamin_c_mg": 0.14,
-            "folate_mcg": 11.46
+            "energy_kcal": 674.61,
+            "carbohydrate_g": 5.41,
+            "protein_g": 1.9,
+            "fat_g": 71.84,
+            "sodium_mg": 63.55,
+            "fiber_g": 1.11,
+            "free_sugar_g": 0.88,
+            "calcium_mg": 7.95,
+            "iron_mg": 0.36,
+            "vitamin_c_mg": 5.36,
+            "folate_mcg": 119.81
         }
     },
     "ou_tenga_masoor_dal": {
-        "method": "verified_real_data",
+        "method": "exact_match",
         "sources": [
-            "Indian_Food_Nutrition_Processed.csv - 'Dalma'"
+            "Indian_Food_Nutrition_Processed.csv - 'Whole masoor (Masoor ki dal)'"
         ],
         "nutrition": {
-            "energy_kcal": 118.93,
-            "carbohydrate_g": 15.04,
-            "protein_g": 4.91,
-            "fat_g": 4.58,
-            "sodium_mg": 49.35,
-            "fiber_g": 2.16,
-            "free_sugar_g": 3.1,
-            "calcium_mg": 54.28,
-            "iron_mg": 2.1,
-            "vitamin_c_mg": 36.63,
-            "folate_mcg": 137.41
+            "energy_kcal": 54.05,
+            "carbohydrate_g": 5.37,
+            "protein_g": 2.28,
+            "fat_g": 2.52,
+            "sodium_mg": 123.72,
+            "fiber_g": 1.98,
+            "free_sugar_g": 0.67,
+            "calcium_mg": 12.2,
+            "iron_mg": 0.95,
+            "vitamin_c_mg": 11.04,
+            "folate_mcg": 48.17
         }
     },
     "paneer_curey": {
-        "method": "verified_real_data",
+        "method": "exact_match",
         "sources": [
             "Indian_Food_Nutrition_Processed.csv - 'Paneer curry'"
         ],
@@ -1178,7 +1152,7 @@
         }
     },
     "papad": {
-        "method": "verified_real_data",
+        "method": "exact_match",
         "sources": [
             "Indian_Food_Nutrition_Processed.csv - 'Papdi'"
         ],
@@ -1197,459 +1171,445 @@
         }
     },
     "papaya_xaar": {
-        "method": "verified_real_data",
+        "method": "exact_match",
         "sources": [
-            "Indian_Food_Nutrition_Processed.csv - 'Papdi'"
+            "Indian_Food_Nutrition_Processed.csv - 'Raw papaya with coconut (Papaya thoran)'"
         ],
         "nutrition": {
-            "energy_kcal": 708.96,
-            "carbohydrate_g": 12.89,
-            "protein_g": 1.83,
-            "fat_g": 72.11,
-            "sodium_mg": 28.91,
-            "fiber_g": 0.56,
-            "free_sugar_g": 0.31,
-            "calcium_mg": 6.06,
-            "iron_mg": 0.44,
-            "vitamin_c_mg": 0.04,
-            "folate_mcg": 5.01
+            "energy_kcal": 132.75,
+            "carbohydrate_g": 5.58,
+            "protein_g": 1.54,
+            "fat_g": 11.42,
+            "sodium_mg": 270.56,
+            "fiber_g": 4.31,
+            "free_sugar_g": 3.82,
+            "calcium_mg": 33.74,
+            "iron_mg": 0.82,
+            "vitamin_c_mg": 25.38,
+            "folate_mcg": 43.68
         }
     },
     "payokh": {
-        "method": "verified_real_data",
+        "method": "exact_match",
         "sources": [
-            "Indian_Food_Nutrition_Processed.csv - 'Poha'"
+            "Indian_Food_Nutrition_Processed.csv - 'Rice kheer (Chawal ki kheer)'"
         ],
         "nutrition": {
-            "energy_kcal": 294.53,
-            "carbohydrate_g": 35.05,
-            "protein_g": 6.09,
-            "fat_g": 14.14,
-            "sodium_mg": 377.1,
-            "fiber_g": 3.72,
-            "free_sugar_g": 0.87,
-            "calcium_mg": 37.67,
-            "iron_mg": 3.01,
-            "vitamin_c_mg": 6.62,
-            "folate_mcg": 11.96
+            "energy_kcal": 75.03,
+            "carbohydrate_g": 10.05,
+            "protein_g": 2.3,
+            "fat_g": 2.97,
+            "sodium_mg": 16.24,
+            "fiber_g": 0.17,
+            "free_sugar_g": 8.02,
+            "calcium_mg": 75.57,
+            "iron_mg": 0.17,
+            "vitamin_c_mg": 5.06,
+            "folate_mcg": 19.54
         }
     },
     "pickle": {
-        "method": "verified_real_data",
+        "method": "exact_match",
         "sources": [
-            "Indian_Food_Nutrition_Processed.csv - 'Pancake'"
+            "Indian_Food_Nutrition_Processed.csv - 'Mango pickle (Aam ka achaar)'"
         ],
         "nutrition": {
-            "energy_kcal": 203.36,
-            "carbohydrate_g": 20.49,
-            "protein_g": 5.68,
-            "fat_g": 10.82,
-            "sodium_mg": 143.7,
-            "fiber_g": 0.65,
-            "free_sugar_g": 3.32,
-            "calcium_mg": 79.49,
-            "iron_mg": 0.69,
-            "vitamin_c_mg": 0.5,
-            "folate_mcg": 5.43
+            "energy_kcal": 192.12,
+            "carbohydrate_g": 8.11,
+            "protein_g": 1.6,
+            "fat_g": 17.89,
+            "sodium_mg": 3429.94,
+            "fiber_g": 3.68,
+            "free_sugar_g": 1.79,
+            "calcium_mg": 48.97,
+            "iron_mg": 1.44,
+            "vitamin_c_mg": null,
+            "folate_mcg": null
         }
     },
     "pork_curry": {
-        "method": "verified_real_data",
+        "method": "exact_match",
         "sources": [
-            "Indian_Food_Nutrition_Processed.csv - 'Poori'"
+            "ifct2017_compositions.csv - 'Pork, shoulder'"
         ],
         "nutrition": {
-            "energy_kcal": 737.63,
-            "carbohydrate_g": 8.22,
-            "protein_g": 1.35,
-            "fat_g": 77.61,
-            "sodium_mg": 31.73,
-            "fiber_g": 1.46,
-            "free_sugar_g": 0.23,
-            "calcium_mg": 3.98,
-            "iron_mg": 0.6,
+            "energy_kcal": 237.33,
+            "carbohydrate_g": 0.0,
+            "protein_g": 17.41,
+            "fat_g": 18.83,
+            "sodium_mg": 54.47,
+            "fiber_g": 0.0,
+            "free_sugar_g": null,
+            "calcium_mg": 9.95,
+            "iron_mg": 0.91,
             "vitamin_c_mg": 0.0,
-            "folate_mcg": 4.68
+            "folate_mcg": 0.0
         }
     },
     "pork_fry": {
-        "method": "verified_real_data",
+        "method": "exact_match",
         "sources": [
-            "Indian_Food_Nutrition_Processed.csv - 'Paneer curry'"
+            "ifct2017_compositions.csv - 'Pork, chops'"
         ],
         "nutrition": {
-            "energy_kcal": 176.52,
-            "carbohydrate_g": 8.4,
-            "protein_g": 7.8,
-            "fat_g": 12.38,
-            "sodium_mg": 216.09,
-            "fiber_g": 1.4,
-            "free_sugar_g": 6.29,
-            "calcium_mg": 189.06,
-            "iron_mg": 0.81,
-            "vitamin_c_mg": 20.04,
-            "folate_mcg": 95.56
+            "energy_kcal": 178.78,
+            "carbohydrate_g": 0.0,
+            "protein_g": 19.41,
+            "fat_g": 11.3,
+            "sodium_mg": 43.7,
+            "fiber_g": 0.0,
+            "free_sugar_g": null,
+            "calcium_mg": 8.12,
+            "iron_mg": 1.0,
+            "vitamin_c_mg": 0.0,
+            "folate_mcg": 0.0
         }
     },
     "potato_bean_carrot_fry": {
-        "method": "verified_real_data",
-        "sources": [
-            "Indian_Food_Nutrition_Processed.csv - 'Mixed vegetable soup'"
-        ],
+        "method": "no_match",
+        "sources": [],
         "nutrition": {
-            "energy_kcal": 35.71,
-            "carbohydrate_g": 2.95,
-            "protein_g": 8.22,
-            "fat_g": 11.66,
-            "sodium_mg": 9202.27,
-            "fiber_g": 1.64,
-            "free_sugar_g": 1.64,
-            "calcium_mg": 50.69,
-            "iron_mg": 1.74,
-            "vitamin_c_mg": 20.06,
-            "folate_mcg": 31.61
+            "energy_kcal": null,
+            "carbohydrate_g": null,
+            "protein_g": null,
+            "fat_g": null,
+            "sodium_mg": null,
+            "fiber_g": null,
+            "free_sugar_g": null,
+            "calcium_mg": null,
+            "iron_mg": null,
+            "vitamin_c_mg": null,
+            "folate_mcg": null
         }
     },
     "potato_bean_fry": {
-        "method": "verified_real_data",
-        "sources": [
-            "Indian_Food_Nutrition_Processed.csv - 'Beans foogath'"
-        ],
+        "method": "no_match",
+        "sources": [],
         "nutrition": {
-            "energy_kcal": 105.06,
-            "carbohydrate_g": 3.26,
-            "protein_g": 2.03,
-            "fat_g": 9.22,
-            "sodium_mg": 81.22,
-            "fiber_g": 4.15,
-            "free_sugar_g": 1.7,
-            "calcium_mg": 44.2,
-            "iron_mg": 0.95,
-            "vitamin_c_mg": 6.36,
-            "folate_mcg": 86.05
+            "energy_kcal": null,
+            "carbohydrate_g": null,
+            "protein_g": null,
+            "fat_g": null,
+            "sodium_mg": null,
+            "fiber_g": null,
+            "free_sugar_g": null,
+            "calcium_mg": null,
+            "iron_mg": null,
+            "vitamin_c_mg": null,
+            "folate_mcg": null
         }
     },
     "potato_cauliflower_carrot_fry": {
-        "method": "verified_real_data",
-        "sources": [
-            "Indian_Food_Nutrition_Processed.csv - 'Dal moong'"
-        ],
+        "method": "no_match",
+        "sources": [],
         "nutrition": {
-            "energy_kcal": 43.69,
-            "carbohydrate_g": 4.92,
-            "protein_g": 2.2,
-            "fat_g": 1.62,
-            "sodium_mg": 117.74,
-            "fiber_g": 1.08,
-            "free_sugar_g": 0.13,
-            "calcium_mg": 7.69,
-            "iron_mg": 0.52,
-            "vitamin_c_mg": 0.0,
-            "folate_mcg": 0.0
+            "energy_kcal": null,
+            "carbohydrate_g": null,
+            "protein_g": null,
+            "fat_g": null,
+            "sodium_mg": null,
+            "fiber_g": null,
+            "free_sugar_g": null,
+            "calcium_mg": null,
+            "iron_mg": null,
+            "vitamin_c_mg": null,
+            "folate_mcg": null
         }
     },
     "potato_cauliflower_fry": {
-        "method": "verified_real_data",
-        "sources": [
-            "Indian_Food_Nutrition_Processed.csv - 'Dal moong'"
-        ],
+        "method": "no_match",
+        "sources": [],
         "nutrition": {
-            "energy_kcal": 43.69,
-            "carbohydrate_g": 4.92,
-            "protein_g": 2.2,
-            "fat_g": 1.62,
-            "sodium_mg": 117.74,
-            "fiber_g": 1.08,
-            "free_sugar_g": 0.13,
-            "calcium_mg": 7.69,
-            "iron_mg": 0.52,
-            "vitamin_c_mg": 0.0,
-            "folate_mcg": 0.0
+            "energy_kcal": null,
+            "carbohydrate_g": null,
+            "protein_g": null,
+            "fat_g": null,
+            "sodium_mg": null,
+            "fiber_g": null,
+            "free_sugar_g": null,
+            "calcium_mg": null,
+            "iron_mg": null,
+            "vitamin_c_mg": null,
+            "folate_mcg": null
         }
     },
     "potato_chutney": {
-        "method": "verified_real_data",
+        "method": "exact_match",
         "sources": [
-            "Indian_Food_Nutrition_Processed.csv - 'Potato nests'"
+            "ifct2017_compositions.csv - 'Potato, brown skin, big'"
         ],
         "nutrition": {
-            "energy_kcal": 111.62,
-            "carbohydrate_g": 11.05,
-            "protein_g": 5.71,
-            "fat_g": 4.77,
-            "sodium_mg": 182.12,
-            "fiber_g": 2.49,
-            "free_sugar_g": 1.41,
-            "calcium_mg": 55.25,
-            "iron_mg": 0.87,
-            "vitamin_c_mg": 37.47,
-            "folate_mcg": 49.55
+            "energy_kcal": 69.79,
+            "carbohydrate_g": 14.89,
+            "protein_g": 1.54,
+            "fat_g": 0.23,
+            "sodium_mg": 4.11,
+            "fiber_g": 1.71,
+            "free_sugar_g": null,
+            "calcium_mg": 9.52,
+            "iron_mg": 0.57,
+            "vitamin_c_mg": 23.15,
+            "folate_mcg": 15.51
         }
     },
     "potato_fry": {
-        "method": "verified_real_data",
+        "method": "exact_match",
         "sources": [
-            "Indian_Food_Nutrition_Processed.csv - 'French dressing'"
+            "ifct2017_compositions.csv - 'Potato, brown skin, big'"
         ],
         "nutrition": {
-            "energy_kcal": 733.77,
-            "carbohydrate_g": 3.68,
-            "protein_g": 0.32,
-            "fat_g": 79.65,
-            "sodium_mg": 261.13,
-            "fiber_g": 0.22,
-            "free_sugar_g": 3.01,
-            "calcium_mg": 6.98,
-            "iron_mg": 0.48,
-            "vitamin_c_mg": 6.42,
-            "folate_mcg": 1.95
+            "energy_kcal": 69.79,
+            "carbohydrate_g": 14.89,
+            "protein_g": 1.54,
+            "fat_g": 0.23,
+            "sodium_mg": 4.11,
+            "fiber_g": 1.71,
+            "free_sugar_g": null,
+            "calcium_mg": 9.52,
+            "iron_mg": 0.57,
+            "vitamin_c_mg": 23.15,
+            "folate_mcg": 15.51
         }
     },
     "potato_kunduly_fry": {
-        "method": "verified_real_data",
+        "method": "exact_match",
         "sources": [
-            "Indian_Food_Nutrition_Processed.csv - 'Whey soup'"
+            "ifct2017_compositions.csv - 'Bitter gourd, jagged, smooth ridges, elongate'"
         ],
         "nutrition": {
-            "energy_kcal": 68.91,
-            "carbohydrate_g": 6.26,
-            "protein_g": 3.45,
-            "fat_g": 3.34,
-            "sodium_mg": 87.08,
-            "fiber_g": 0.84,
-            "free_sugar_g": 5.87,
-            "calcium_mg": 164.92,
-            "iron_mg": 0.55,
-            "vitamin_c_mg": 2.55,
-            "folate_mcg": 33.72
+            "energy_kcal": 19.36,
+            "carbohydrate_g": 2.29,
+            "protein_g": 1.61,
+            "fat_g": 0.26,
+            "sodium_mg": 11.16,
+            "fiber_g": 3.72,
+            "free_sugar_g": null,
+            "calcium_mg": 17.62,
+            "iron_mg": 1.28,
+            "vitamin_c_mg": 54.3,
+            "folate_mcg": 60.03
         }
     },
     "pudina_dhaniya_chutney": {
-        "method": "verified_real_data",
+        "method": "exact_match",
         "sources": [
-            "Indian_Food_Nutrition_Processed.csv - 'Gun powder chutney'"
+            "Indian_Food_Nutrition_Processed.csv - 'Mint and coriander chutney (Pudinay aur dhaniye ki chutney)'"
         ],
         "nutrition": {
-            "energy_kcal": 312.34,
-            "carbohydrate_g": 47.65,
-            "protein_g": 21.55,
-            "fat_g": 2.67,
-            "sodium_mg": 195.67,
-            "fiber_g": 13.95,
-            "free_sugar_g": 1.16,
-            "calcium_mg": 68.87,
-            "iron_mg": 5.14,
-            "vitamin_c_mg": 0.02,
-            "folate_mcg": 14.27
+            "energy_kcal": 102.6,
+            "carbohydrate_g": 21.18,
+            "protein_g": 2.81,
+            "fat_g": 0.51,
+            "sodium_mg": 391.66,
+            "fiber_g": 4.33,
+            "free_sugar_g": 15.88,
+            "calcium_mg": 107.45,
+            "iron_mg": 4.76,
+            "vitamin_c_mg": 3.62,
+            "folate_mcg": 10.89
         }
     },
     "rice": {
-        "method": "verified_real_data",
+        "method": "exact_match",
         "sources": [
-            "Indian_Food_Nutrition_Processed.csv - 'Rice upma'"
+            "Indian_Food_Nutrition_Processed.csv - 'Boiled rice (Uble chawal)'"
         ],
         "nutrition": {
-            "energy_kcal": 151.27,
-            "carbohydrate_g": 17.96,
-            "protein_g": 2.63,
-            "fat_g": 7.46,
-            "sodium_mg": 101.75,
-            "fiber_g": 2.12,
-            "free_sugar_g": 1.13,
-            "calcium_mg": 17.57,
-            "iron_mg": 0.67,
-            "vitamin_c_mg": 4.64,
-            "folate_mcg": 11.94
+            "energy_kcal": 117.19,
+            "carbohydrate_g": 25.72,
+            "protein_g": 2.6,
+            "fat_g": 0.18,
+            "sodium_mg": 1.05,
+            "fiber_g": 1.25,
+            "free_sugar_g": 0.22,
+            "calcium_mg": 2.7,
+            "iron_mg": 0.24,
+            "vitamin_c_mg": 0.0,
+            "folate_mcg": 9.75
         }
     },
     "rohor_mah_curry": {
-        "method": "verified_real_data",
+        "method": "exact_match",
         "sources": [
-            "Indian_Food_Nutrition_Processed.csv - 'Rasbhari'"
+            "Indian_Food_Nutrition_Processed.csv - 'Arhar with spinach (Arhar dal aur palak)'"
         ],
         "nutrition": {
-            "energy_kcal": 130.05,
-            "carbohydrate_g": 28.27,
-            "protein_g": 1.52,
-            "fat_g": 1.92,
-            "sodium_mg": 16.65,
-            "fiber_g": 0.02,
-            "free_sugar_g": 27.84,
-            "calcium_mg": 62.58,
-            "iron_mg": 0.13,
-            "vitamin_c_mg": 2.69,
-            "folate_mcg": 10.2
+            "energy_kcal": 52.84,
+            "carbohydrate_g": 4.77,
+            "protein_g": 2.05,
+            "fat_g": 2.76,
+            "sodium_mg": 109.97,
+            "fiber_g": 1.3,
+            "free_sugar_g": 0.23,
+            "calcium_mg": 21.81,
+            "iron_mg": 0.89,
+            "vitamin_c_mg": 18.79,
+            "folate_mcg": 105.9
         }
     },
     "salad": {
-        "method": "verified_real_data",
-        "sources": [
-            "Indian_Food_Nutrition_Processed.csv - 'Kale salad'"
-        ],
+        "method": "no_match",
+        "sources": [],
         "nutrition": {
-            "energy_kcal": 177.71,
-            "carbohydrate_g": 5.01,
-            "protein_g": 4.86,
-            "fat_g": 15.33,
-            "sodium_mg": 292.04,
-            "fiber_g": 1.36,
-            "free_sugar_g": 3.31,
-            "calcium_mg": 109.11,
-            "iron_mg": 1.3,
-            "vitamin_c_mg": 30.49,
-            "folate_mcg": 35.39
+            "energy_kcal": null,
+            "carbohydrate_g": null,
+            "protein_g": null,
+            "fat_g": null,
+            "sodium_mg": null,
+            "fiber_g": null,
+            "free_sugar_g": null,
+            "calcium_mg": null,
+            "iron_mg": null,
+            "vitamin_c_mg": null,
+            "folate_mcg": null
         }
     },
     "small_potato_fry": {
-        "method": "verified_real_data",
+        "method": "exact_match",
         "sources": [
-            "Indian_Food_Nutrition_Processed.csv - 'Parsley potato'"
+            "ifct2017_compositions.csv - 'Potato, brown skin, small'"
         ],
         "nutrition": {
-            "energy_kcal": 119.51,
-            "carbohydrate_g": 13.81,
-            "protein_g": 1.49,
-            "fat_g": 6.28,
-            "sodium_mg": 4.62,
-            "fiber_g": 1.59,
-            "free_sugar_g": 0.34,
-            "calcium_mg": 11.43,
-            "iron_mg": 0.55,
-            "vitamin_c_mg": 23.82,
-            "folate_mcg": 16.5
+            "energy_kcal": 60.95,
+            "carbohydrate_g": 12.9,
+            "protein_g": 1.35,
+            "fat_g": 0.22,
+            "sodium_mg": 3.97,
+            "fiber_g": 1.69,
+            "free_sugar_g": null,
+            "calcium_mg": 8.53,
+            "iron_mg": 0.53,
+            "vitamin_c_mg": 26.41,
+            "folate_mcg": 13.85
         }
     },
     "tamul_pan": {
-        "method": "verified_real_data",
+        "method": "exact_match",
         "sources": [
-            "Indian_Food_Nutrition_Processed.csv - 'Methi thepla'"
+            "ifct2017_compositions.csv - 'Betel leaves, big (kolkata)'"
         ],
         "nutrition": {
-            "energy_kcal": 346.16,
-            "carbohydrate_g": 41.34,
-            "protein_g": 8.98,
-            "fat_g": 15.95,
-            "sodium_mg": 543.27,
-            "fiber_g": 7.56,
-            "free_sugar_g": 2.98,
-            "calcium_mg": 73.51,
-            "iron_mg": 4.52,
-            "vitamin_c_mg": 1.06,
-            "folate_mcg": 15.26
+            "energy_kcal": 48.28,
+            "carbohydrate_g": 7.37,
+            "protein_g": 2.51,
+            "fat_g": 0.75,
+            "sodium_mg": 16.8,
+            "fiber_g": 2.12,
+            "free_sugar_g": null,
+            "calcium_mg": 207.0,
+            "iron_mg": 3.0,
+            "vitamin_c_mg": 18.4,
+            "folate_mcg": 15.96
         }
     },
     "til_chutney": {
-        "method": "verified_real_data",
+        "method": "exact_match",
         "sources": [
-            "Indian_Food_Nutrition_Processed.csv - 'Sesame toast'"
+            "USDA.csv - 'SESAME SEEDS,WHOLE,DRIED'"
         ],
         "nutrition": {
-            "energy_kcal": 495.19,
-            "carbohydrate_g": 11.15,
-            "protein_g": 1.9,
-            "fat_g": 49.38,
-            "sodium_mg": 128.78,
-            "fiber_g": 1.32,
-            "free_sugar_g": 1.46,
-            "calcium_mg": 43.44,
-            "iron_mg": 0.72,
-            "vitamin_c_mg": 6.92,
-            "folate_mcg": 8.87
+            "energy_kcal": 573.0,
+            "carbohydrate_g": 23.45,
+            "protein_g": 17.73,
+            "fat_g": 49.67,
+            "sodium_mg": 11.0,
+            "fiber_g": null,
+            "free_sugar_g": null,
+            "calcium_mg": 975.0,
+            "iron_mg": 14.55,
+            "vitamin_c_mg": 0.0,
+            "folate_mcg": null
         }
     },
     "tomato_brinjal_chutney": {
-        "method": "verified_real_data",
-        "sources": [
-            "Indian_Food_Nutrition_Processed.csv - 'Tomato sauce'"
-        ],
+        "method": "no_match",
+        "sources": [],
         "nutrition": {
-            "energy_kcal": 34.33,
-            "carbohydrate_g": 7.23,
-            "protein_g": 0.81,
-            "fat_g": 0.27,
-            "sodium_mg": 174.79,
-            "fiber_g": 1.79,
-            "free_sugar_g": 5.69,
-            "calcium_mg": 13.0,
-            "iron_mg": 0.31,
-            "vitamin_c_mg": 0.0,
-            "folate_mcg": 0.0
+            "energy_kcal": null,
+            "carbohydrate_g": null,
+            "protein_g": null,
+            "fat_g": null,
+            "sodium_mg": null,
+            "fiber_g": null,
+            "free_sugar_g": null,
+            "calcium_mg": null,
+            "iron_mg": null,
+            "vitamin_c_mg": null,
+            "folate_mcg": null
         }
     },
     "tomato_chutney": {
-        "method": "verified_real_data",
+        "method": "exact_match",
         "sources": [
-            "Indian_Food_Nutrition_Processed.csv - 'Tomato ketchup'"
+            "Indian_Food_Nutrition_Processed.csv - 'Tomato chutney (Tamatar ki chutney)'"
         ],
         "nutrition": {
-            "energy_kcal": 33.07,
-            "carbohydrate_g": 6.48,
-            "protein_g": 0.91,
-            "fat_g": 0.3,
-            "sodium_mg": 177.97,
-            "fiber_g": 1.9,
-            "free_sugar_g": 4.68,
-            "calcium_mg": 15.33,
-            "iron_mg": 0.36,
-            "vitamin_c_mg": 0.0,
-            "folate_mcg": 0.0
+            "energy_kcal": 176.07,
+            "carbohydrate_g": 31.85,
+            "protein_g": 0.97,
+            "fat_g": 6.01,
+            "sodium_mg": 823.65,
+            "fiber_g": 1.49,
+            "free_sugar_g": 30.02,
+            "calcium_mg": 25.34,
+            "iron_mg": 0.96,
+            "vitamin_c_mg": null,
+            "folate_mcg": null
         }
     },
     "xaak and boot fry": {
-        "method": "verified_real_data",
+        "method": "exact_match",
         "sources": [
-            "Indian_Food_Nutrition_Processed.csv - 'Spinach souffle '"
+            "Indian_Food_Nutrition_Processed.csv - 'Spinach chickpeas cutlet (Palak channa dal cutlet)'"
         ],
         "nutrition": {
-            "energy_kcal": 150.18,
-            "carbohydrate_g": 6.27,
-            "protein_g": 7.36,
-            "fat_g": 10.52,
-            "sodium_mg": 244.07,
-            "fiber_g": 1.44,
-            "free_sugar_g": 0.89,
-            "calcium_mg": 133.69,
-            "iron_mg": 2.15,
-            "vitamin_c_mg": 30.28,
-            "folate_mcg": 172.47
+            "energy_kcal": 688.03,
+            "carbohydrate_g": 4.93,
+            "protein_g": 1.44,
+            "fat_g": 73.6,
+            "sodium_mg": 79.13,
+            "fiber_g": 0.93,
+            "free_sugar_g": 0.16,
+            "calcium_mg": 11.3,
+            "iron_mg": 0.57,
+            "vitamin_c_mg": 16.18,
+            "folate_mcg": 49.07
         }
     },
     "xaak_motor_fry": {
-        "method": "verified_real_data",
-        "sources": [
-            "Indian_Food_Nutrition_Processed.csv - 'Spinach souffle '"
-        ],
+        "method": "no_match",
+        "sources": [],
         "nutrition": {
-            "energy_kcal": 150.18,
-            "carbohydrate_g": 6.27,
-            "protein_g": 7.36,
-            "fat_g": 10.52,
-            "sodium_mg": 244.07,
-            "fiber_g": 1.44,
-            "free_sugar_g": 0.89,
-            "calcium_mg": 133.69,
-            "iron_mg": 2.15,
-            "vitamin_c_mg": 30.28,
-            "folate_mcg": 172.47
+            "energy_kcal": null,
+            "carbohydrate_g": null,
+            "protein_g": null,
+            "fat_g": null,
+            "sodium_mg": null,
+            "fiber_g": null,
+            "free_sugar_g": null,
+            "calcium_mg": null,
+            "iron_mg": null,
+            "vitamin_c_mg": null,
+            "folate_mcg": null
         }
     },
     "xaak_potato_fry": {
-        "method": "verified_real_data",
+        "method": "exact_match",
         "sources": [
-            "Indian_Food_Nutrition_Processed.csv - 'Spinach souffle '"
+            "Indian_Food_Nutrition_Processed.csv - 'Spinach and potato (Palak aloo)'"
         ],
         "nutrition": {
-            "energy_kcal": 150.18,
-            "carbohydrate_g": 6.27,
-            "protein_g": 7.36,
-            "fat_g": 10.52,
-            "sodium_mg": 244.07,
-            "fiber_g": 1.44,
-            "free_sugar_g": 0.89,
-            "calcium_mg": 133.69,
-            "iron_mg": 2.15,
-            "vitamin_c_mg": 30.28,
-            "folate_mcg": 172.47
+            "energy_kcal": 57.17,
+            "carbohydrate_g": 5.91,
+            "protein_g": 1.63,
+            "fat_g": 2.82,
+            "sodium_mg": 62.46,
+            "fiber_g": 2.04,
+            "free_sugar_g": 0.93,
+            "calcium_mg": 43.67,
+            "iron_mg": 1.59,
+            "vitamin_c_mg": 78.73,
+            "folate_mcg": 242.0
         }
     }
 }
